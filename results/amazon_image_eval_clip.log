@@ -1,0 +1,11 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/391 [00:00<?, ?it/s]Loading weights: 100%|██████████| 391/391 [00:00<00:00, 77949.18it/s]
+CLIP vectors for 2401 of 5904 indexed products
+Loading weights:   0%|          | 0/590 [00:00<?, ?it/s]Loading weights: 100%|██████████| 590/590 [00:00<00:00, 6197.21it/s]
+{
+  "method": "clip",
+  "n_photos": 48,
+  "n_with_other_exact": 43,
+  "mean_recall_other_exact@10": 0.5274576466035968,
+  "mean_exact_in_top10": 3.3541666666666665
+}

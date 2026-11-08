@@ -1,0 +1,971 @@
+{
+  "summary": {
+    "method": "clip",
+    "n_photos": 48,
+    "n_with_other_exact": 43,
+    "mean_recall_other_exact@10": 0.5274576466035968,
+    "mean_exact_in_top10": 3.3541666666666665
+  },
+  "queries": [
+    {
+      "query_id": 41100,
+      "text_query": "flat black angelus paint",
+      "photo_of": "B00MPXF6XG",
+      "image_query": "",
+      "recall_other_exact@10": 0.5,
+      "exact_in_top10": 1,
+      "top10": [
+        "B0196TA1YA",
+        "B01H0P3LP8",
+        "B0196T916Y",
+        "B00I9L5BMO",
+        "B00B8BSV74",
+        "B01KMPHK3C",
+        "B00HQ5MNW0",
+        "B0196TA2WQ",
+        "B07VY9ZC82",
+        "B07F77TT2Q"
+      ]
+    },
+    {
+      "query_id": 75709,
+      "text_query": "oneplus tv 55 inch",
+      "photo_of": "B08DHFX4FV",
+      "image_query": "",
+      "recall_other_exact@10": 0.0,
+      "exact_in_top10": 0,
+      "top10": [
+        "B0885N4FPZ",
+        "B095YTY1B7",
+        "B08WHM7VRV",
+        "B07JJZPZNS",
+        "B084JH43DJ",
+        "B08WJMSS8H",
+        "B08QXFT4M9",
+        "B07SM38P2G",
+        "B083R32N5J",
+        "B08Z21BBWK"
+      ]
+    },
+    {
+      "query_id": 30104,
+      "text_query": "cricut easy pres",
+      "photo_of": "B07L57NK5Z",
+      "image_query": "",
+      "recall_other_exact@10": 0.5,
+      "exact_in_top10": 1,
+      "top10": [
+        "B07GWFPBZH",
+        "B07GWLXHJ5",
+        "B07R8WPLC5",
+        "B08B5W92QM",
+        "B07LFH2MGH",
+        "B00ZGPI3OY",
+        "B07VKPZS24",
+        "B01AD3HLH8",
+        "B07TB1NG2Q",
+        "B01I6UGYS2"
+      ]
+    },
+    {
+      "query_id": 94688,
+      "text_query": "small dog brush for yorkie",
+      "photo_of": "B071VD9TCC",
+      "image_query": "",
+      "recall_other_exact@10": null,
+      "exact_in_top10": 0,
+      "top10": [
+        "B07VL789ZZ",
+        "B07K11PFQ1",
+        "B00757W4KK",
+        "B00ZGPI3OY",
+        "B000O39TE6",
+        "B07R3YKF17",
+        "B005KSOB34",
+        "B01I6UGYS2",
+        "B07TB1NG2Q",
+        "B07X41WM1Z"
+      ]
+    },
+    {
+      "query_id": 56898,
+      "text_query": "kamen rider build dx rabbit",
+      "photo_of": "B07B4GZ3CS",
+      "image_query": "",
+      "recall_other_exact@10": 0.6,
+      "exact_in_top10": 3,
+      "top10": [
+        "B07B4NTJ7D",
+        "B074ZBK8R5",
+        "B07CRHYRS9",
+        "B07L6X32M7",
+        "B07NSJJ7NS",
+        "B07FD59CPX",
+        "B07Q5Y1PF6",
+        "B07H3ZVWD8",
+        "B077VKWTWP",
+        "B07RKRPWK1"
+      ]
+    },
+    {
+      "query_id": 13411,
+      "text_query": "basic wiring circuit kit kids",
+      "photo_of": "B00U11ES8I",
+      "image_query": "",
+      "recall_other_exact@10": 0.6666666666666666,
+      "exact_in_top10": 8,
+      "top10": [
+        "B01L0ZL8N6",
+        "B07FLJT72Q",
+        "B07T87F8Y8",
+        "B07Z1BK7NG",
+        "B078XV3RK2",
+        "B01ERPEMAC",
+        "B073ZC68QG",
+        "B01IH4VJRI",
+        "B07Y55P7GR",
+        "B095KSGF3C"
+      ]
+    },
+    {
+      "query_id": 48129,
+      "text_query": "gym set for men dumbells",
+      "photo_of": "B000RNW3OQ",
+      "image_query": "",
+      "recall_other_exact@10": 0.7142857142857143,
+      "exact_in_top10": 10,
+      "top10": [
+        "B07C9QTKNZ",
+        "B01MYYVGU7",
+        "B07V6Z3SWH",
+        "B01N9FNI9V",
+        "B00RSDOU2G",
+        "B001ARYU58",
+        "B074DZ5YL9",
+        "B009GC76NW",
+        "B07C37B7DT",
+        "B01LR5SM74"
+      ]
+    },
+    {
+      "query_id": 50118,
+      "text_query": "hellboy toy",
+      "photo_of": "1596176040",
+      "image_query": "",
+      "recall_other_exact@10": 0.5833333333333334,
+      "exact_in_top10": 7,
+      "top10": [
+        "B001B1C9FQ",
+        "B06Y47RMX7",
+        "B07T4VWY48",
+        "B0014XVMUE",
+        "B000L2D98C",
+        "B0797Q2MKT",
+        "B07FZYDTJ2",
+        "B076X91719",
+        "B0721T72YF",
+        "B07FVXX673"
+      ]
+    },
+    {
+      "query_id": 31053,
+      "text_query": "cute pajamas for teen girls",
+      "photo_of": "B0145JTLTW",
+      "image_query": "",
+      "recall_other_exact@10": 0.06896551724137931,
+      "exact_in_top10": 2,
+      "top10": [
+        "B076215J7T",
+        "B01I0Q2O86",
+        "B07P14TLPN",
+        "B0067N7WBE",
+        "B07KTBGT9Z",
+        "B01DZLAQHW",
+        "B07V9HZF3C",
+        "B01GIDTN6E",
+        "B077V4RYPX",
+        "B007R2N2QI"
+      ]
+    },
+    {
+      "query_id": 71218,
+      "text_query": "mr clean bathroom lemon bathroom vlesner",
+      "photo_of": "B002YTLFBI",
+      "image_query": "",
+      "recall_other_exact@10": 0.6666666666666666,
+      "exact_in_top10": 2,
+      "top10": [
+        "B00JANCUVU",
+        "B06XT161H7",
+        "B010RHQ0JK",
+        "B0841Q45HK",
+        "B081899ND4",
+        "B081NRJDL2",
+        "B081P3P9DZ",
+        "B07MS2ZQP6",
+        "B08682VPDV",
+        "B07MJV3VRK"
+      ]
+    },
+    {
+      "query_id": 5043,
+      "text_query": "6ft surfboard bag",
+      "photo_of": "B001JK3QXS",
+      "image_query": "",
+      "recall_other_exact@10": 0.5,
+      "exact_in_top10": 6,
+      "top10": [
+        "B01HWKFCVW",
+        "B00Q5A72GE",
+        "B0084HWRDE",
+        "B0838FR3PW",
+        "B07KWH4L3N",
+        "B07QGVXJGW",
+        "B07J2RXQ93",
+        "B07KJWVCSH",
+        "B000G5UYAA",
+        "B01GF2XISC"
+      ]
+    },
+    {
+      "query_id": 96432,
+      "text_query": "space base board game",
+      "photo_of": "B00U26V4S4",
+      "image_query": "",
+      "recall_other_exact@10": 0.2,
+      "exact_in_top10": 1,
+      "top10": [
+        "B07YFFZ9DT",
+        "B00U26V4VQ",
+        "B07746H7R2",
+        "B08CD3QS55",
+        "B08F65MX4L",
+        "B00IZEUFIA",
+        "B01IPUGYK6",
+        "B07P67HR7D",
+        "B01KAC6268",
+        "B01MA5AJY9"
+      ]
+    },
+    {
+      "query_id": 75831,
+      "text_query": "opi meet a boy as cute as can be",
+      "photo_of": "B000NG800S",
+      "image_query": "",
+      "recall_other_exact@10": 0.2,
+      "exact_in_top10": 1,
+      "top10": [
+        "B07D5R5DSY",
+        "B08NX3W9NX",
+        "B004NMT926",
+        "B00GB0K51W",
+        "B089R44XDP",
+        "B001D06UW8",
+        "B077ZF3Q9H",
+        "B004DEC7YG",
+        "B07S9RH99G",
+        "B000V02Z16"
+      ]
+    },
+    {
+      "query_id": 108075,
+      "text_query": "veganise mayonnaise",
+      "photo_of": "B01EYRIFRE",
+      "image_query": "",
+      "recall_other_exact@10": 1.0,
+      "exact_in_top10": 2,
+      "top10": [
+        "B07QRX7VYL",
+        "B07PPCQB7K",
+        "B07SL58JRR",
+        "B00KF8LPGA",
+        "B01B7LB1Y4",
+        "B01B7LB4GO",
+        "B06XXQVVBJ",
+        "B0798DVNBL",
+        "B08129JPYC",
+        "B07FW79ZTG"
+      ]
+    },
+    {
+      "query_id": 101719,
+      "text_query": "thackeray greek grammar",
+      "photo_of": "0265282292",
+      "image_query": "",
+      "recall_other_exact@10": 1.0,
+      "exact_in_top10": 5,
+      "top10": [
+        "0342655973",
+        "B00B2HLPEU",
+        "1606081667",
+        "9332851069",
+        "1138930687",
+        "1433679086",
+        "0195218515",
+        "B07DT3LSZJ",
+        "B002MZPL2I",
+        "0521698529"
+      ]
+    },
+    {
+      "query_id": 114182,
+      "text_query": "x shot",
+      "photo_of": "B075ZBX672",
+      "image_query": "",
+      "recall_other_exact@10": 0.5833333333333334,
+      "exact_in_top10": 7,
+      "top10": [
+        "B07FDNQ7GK",
+        "B07GW16LGN",
+        "B07DG1276T",
+        "B07MWVJ2YS",
+        "B07B3KS1B8",
+        "B083TJ1JLT",
+        "B07DFZTT26",
+        "B076JQJJTS",
+        "B07RWP44SH",
+        "B07ZTPNR94"
+      ]
+    },
+    {
+      "query_id": 36265,
+      "text_query": "e katerina",
+      "photo_of": "B01M72FM05",
+      "image_query": "",
+      "recall_other_exact@10": 0.4,
+      "exact_in_top10": 2,
+      "top10": [
+        "1476806098",
+        "B07N4ZFF2C",
+        "0849756723",
+        "B07BGB7TZQ",
+        "B01M9AVJGP",
+        "B0000277IN",
+        "B00AC2JXLS",
+        "0739012762",
+        "1541911091",
+        "B00B8ZJXSQ"
+      ]
+    },
+    {
+      "query_id": 90935,
+      "text_query": "school pageant dresses for 16 year olds",
+      "photo_of": "B077HCY9W6",
+      "image_query": "",
+      "recall_other_exact@10": 0.5,
+      "exact_in_top10": 3,
+      "top10": [
+        "B07BW9LVQB",
+        "B07C9YX5F9",
+        "B07L8ZGRXS",
+        "B07JQCNTSR",
+        "B07DBM52BG",
+        "B07QTFX7SB",
+        "B07SMMYZ1M",
+        "B07NRH7MF1",
+        "B07P5RMBD6",
+        "B07B6QCDQ8"
+      ]
+    },
+    {
+      "query_id": 30906,
+      "text_query": "cusinart coffee grinder burr",
+      "photo_of": "B00004S9CX",
+      "image_query": "",
+      "recall_other_exact@10": 1.0,
+      "exact_in_top10": 2,
+      "top10": [
+        "B0000A1ZN7",
+        "B085NSST81",
+        "B01LW33ADD",
+        "B00TZTSTN2",
+        "B00018RRRK",
+        "B083M6M19C",
+        "B076ZKR22X",
+        "B00WF86ZIG",
+        "B001C2GWTI",
+        "B07Q622YLB"
+      ]
+    },
+    {
+      "query_id": 6624,
+      "text_query": "adhesive towel bar 3m",
+      "photo_of": "B01C60C7FW",
+      "image_query": "",
+      "recall_other_exact@10": 0.2857142857142857,
+      "exact_in_top10": 2,
+      "top10": [
+        "B084GPVPMM",
+        "B07F3SGTKK",
+        "B00PZZFG0O",
+        "B0794CDMSK",
+        "B00WS5HLR0",
+        "B002YBZYHM",
+        "B07MFJBHFH",
+        "B07D1DHN2W",
+        "B010RHQ0JK",
+        "B01FXJ52AU"
+      ]
+    },
+    {
+      "query_id": 114956,
+      "text_query": "yeti cooler sticker",
+      "photo_of": "B00WXIJPA8",
+      "image_query": "",
+      "recall_other_exact@10": 0.0,
+      "exact_in_top10": 0,
+      "top10": [
+        "B07M6S81CM",
+        "B01GJ9DN7W",
+        "B01N071G2L",
+        "B00XMSMO4M",
+        "B07PXPQ8SW",
+        "B07N1Z3D98",
+        "B06XJC2G85",
+        "B086MLWPWP",
+        "B0848VNF22",
+        "B07WQZ6T7Y"
+      ]
+    },
+    {
+      "query_id": 56649,
+      "text_query": "juniors panties",
+      "photo_of": "B076GXHNW1",
+      "image_query": "",
+      "recall_other_exact@10": 0.5,
+      "exact_in_top10": 1,
+      "top10": [
+        "B07PHQBRWS",
+        "B01LW91J5F",
+        "B07QQTPD41",
+        "B07PKXC7LT",
+        "B0797KML6Z",
+        "B076H3L6N7",
+        "B07L8YH7J6",
+        "B00OBBJX6G",
+        "B00HUS7C2O",
+        "B07766FZFT"
+      ]
+    },
+    {
+      "query_id": 76374,
+      "text_query": "osprey air battles",
+      "photo_of": "1472820576",
+      "image_query": "",
+      "recall_other_exact@10": 0.6428571428571429,
+      "exact_in_top10": 9,
+      "top10": [
+        "1472835220",
+        "1472820606",
+        "147283867X",
+        "0692133429",
+        "1855327279",
+        "1841769916",
+        "B07YLZ4PPS",
+        "1472822447",
+        "1472834739",
+        "B07HHF8T53"
+      ]
+    },
+    {
+      "query_id": 45645,
+      "text_query": "girls pants with owls on them",
+      "photo_of": "B00L2BEQ6U",
+      "image_query": "",
+      "recall_other_exact@10": 1.0,
+      "exact_in_top10": 2,
+      "top10": [
+        "B018SXGRXO",
+        "B06ZYWTQQH",
+        "B086XJKNQW",
+        "B07S4CH6V1",
+        "B07MTJMWKH",
+        "B076WRW3N6",
+        "B096WSVR3F",
+        "B075XQSFFP",
+        "B07RJBDD5N",
+        "B07PYLRYT4"
+      ]
+    },
+    {
+      "query_id": 75449,
+      "text_query": "olive green throw pillow",
+      "photo_of": "B071P2BPYM",
+      "image_query": "",
+      "recall_other_exact@10": 0.3,
+      "exact_in_top10": 3,
+      "top10": [
+        "B089YFTPGG",
+        "B075VJ7Q7S",
+        "B07B9R1PHL",
+        "B07JKJSM2S",
+        "B0058ONSK2",
+        "B08VDL49N9",
+        "B06XXSJWLB",
+        "B000BPD9LQ",
+        "B07BVFT1QZ",
+        "B07DG228DP"
+      ]
+    },
+    {
+      "query_id": 26375,
+      "text_query": "circa watches",
+      "photo_of": "B003BPWBBC",
+      "image_query": "",
+      "recall_other_exact@10": 0.3333333333333333,
+      "exact_in_top10": 3,
+      "top10": [
+        "B01HFASX56",
+        "B008UVDM4M",
+        "B008UVVL9K",
+        "B005HJQGCA",
+        "B00LI77OXK",
+        "B00P6TSNE0",
+        "B01M6BI640",
+        "B01BESQPQO",
+        "B003MYWKMW",
+        "B01MTS5BFN"
+      ]
+    },
+    {
+      "query_id": 53062,
+      "text_query": "indominus rex",
+      "photo_of": "B07NQFWZM6",
+      "image_query": "",
+      "recall_other_exact@10": 0.16666666666666666,
+      "exact_in_top10": 1,
+      "top10": [
+        "B07Y5XZHPB",
+        "B07XF8Z24J",
+        "B076FKCFQH",
+        "B07VT3JB1T",
+        "B07SVPDJZR",
+        "B07533HFMW",
+        "B01MQVQFIZ",
+        "B081Z89794",
+        "B0797SS7BC",
+        "B07MKRLSHG"
+      ]
+    },
+    {
+      "query_id": 61150,
+      "text_query": "leg length jackets for women",
+      "photo_of": "B07XCZ77N8",
+      "image_query": "",
+      "recall_other_exact@10": null,
+      "exact_in_top10": 0,
+      "top10": [
+        "B07FT9CHNZ",
+        "B07HC9MN44",
+        "B01MR7IDK6",
+        "B0188VW03C",
+        "B01GIDTN6E",
+        "B07BNJFFZ7",
+        "B075X71X91",
+        "B07BKKZTT1",
+        "B07P6PWP1X",
+        "B07KZHQYK6"
+      ]
+    },
+    {
+      "query_id": 115022,
+      "text_query": "yoga base board",
+      "photo_of": "B00AQ4F19K",
+      "image_query": "",
+      "recall_other_exact@10": 1.0,
+      "exact_in_top10": 1,
+      "top10": [
+        "B0102UUHCI",
+        "B01MYYVGU7",
+        "B07C37B7DT",
+        "B07PZV2HDG",
+        "B076FXGF1Y",
+        "B07C9QTKNZ",
+        "B07V6Z3SWH",
+        "B001ARYU58",
+        "B01LR5SM74",
+        "B074DZ5YL9"
+      ]
+    },
+    {
+      "query_id": 112879,
+      "text_query": "womens born ankle boots",
+      "photo_of": "B00X8SW7ZM",
+      "image_query": "",
+      "recall_other_exact@10": 0.6363636363636364,
+      "exact_in_top10": 7,
+      "top10": [
+        "B07PFH2F79",
+        "B01N0Z6H25",
+        "B076BX9Y46",
+        "B07SW36ZYC",
+        "B0756PBFJT",
+        "B07MK81SF9",
+        "B06X92ZSB5",
+        "B01N4GBLHE",
+        "B01N20MSXW",
+        "B01AV42VVU"
+      ]
+    },
+    {
+      "query_id": 36382,
+      "text_query": "earbuds for iphone xr",
+      "photo_of": "B07F83JRT2",
+      "image_query": "",
+      "recall_other_exact@10": 1.0,
+      "exact_in_top10": 3,
+      "top10": [
+        "B083BT3VXZ",
+        "B07Y9TDWQR",
+        "B07Y58J6MF",
+        "B083FP3KZ1",
+        "B07SP77JCT",
+        "B079NLTL1Q",
+        "B087X2JRQZ",
+        "B01L7PSJFO",
+        "B0894NRQCD",
+        "B07HKWD17S"
+      ]
+    },
+    {
+      "query_id": 101821,
+      "text_query": "the autumn republic",
+      "photo_of": "B00SRRJA2M",
+      "image_query": "",
+      "recall_other_exact@10": null,
+      "exact_in_top10": 0,
+      "top10": [
+        "B00HSQJLUO",
+        "B00C2DMZVK",
+        "B07NZNTK6V",
+        "B01KT7YTV4",
+        "B01H4RAMP4",
+        "B06VXR25KZ",
+        "B00SI0B73S",
+        "1912476592",
+        "0345408772",
+        "B07746H7R2"
+      ]
+    },
+    {
+      "query_id": 72891,
+      "text_query": "nerf rival attachments",
+      "photo_of": "B01IHFCZDE",
+      "image_query": "",
+      "recall_other_exact@10": 0.4444444444444444,
+      "exact_in_top10": 4,
+      "top10": [
+        "B01IHFCZRK",
+        "B005C44CE4",
+        "B00TDP7KT2",
+        "B072WHQFJ7",
+        "B07RWP44SH",
+        "B081TKX37Q",
+        "B07VXBGFJV",
+        "B07K2W2889",
+        "B072M1N9VD",
+        "B00T2DFI6M"
+      ]
+    },
+    {
+      "query_id": 21314,
+      "text_query": "caitriona balfe",
+      "photo_of": "B00SXRFZLG",
+      "image_query": "",
+      "recall_other_exact@10": 0.42857142857142855,
+      "exact_in_top10": 3,
+      "top10": [
+        "B01DX5BY4E",
+        "B077RL8T87",
+        "B01I5SLS9A",
+        "B07BPGB11L",
+        "B01J4L7E2M",
+        "B086VWPYRK",
+        "B07C1FDW6K",
+        "B07DHVV4K3",
+        "B071KHBK4J",
+        "B086H7WNMS"
+      ]
+    },
+    {
+      "query_id": 64144,
+      "text_query": "luggage buckle strap",
+      "photo_of": "B00004SR9P",
+      "image_query": "",
+      "recall_other_exact@10": 0.3076923076923077,
+      "exact_in_top10": 4,
+      "top10": [
+        "B089H1SVDW",
+        "B07KTPK1LJ",
+        "B07CLM6V9B",
+        "B01932IXXG",
+        "B07B6C8C9M",
+        "B0084HWRDE",
+        "B07L6LG12G",
+        "B075D81C5Y",
+        "B07KWH4L3N",
+        "B001V2QVN6"
+      ]
+    },
+    {
+      "query_id": 66470,
+      "text_query": "mattress with frame",
+      "photo_of": "B006L9U4PK",
+      "image_query": "",
+      "recall_other_exact@10": 0.6666666666666666,
+      "exact_in_top10": 8,
+      "top10": [
+        "B01M7M9NXX",
+        "B00Q7EPSHI",
+        "B074NDPZT5",
+        "B0777K9RGX",
+        "B07CVQXC66",
+        "B01IU6RN9G",
+        "B01IU6RJYA",
+        "B074QWX9V9",
+        "B07NWC7WYY",
+        "B088YTV3NW"
+      ]
+    },
+    {
+      "query_id": 57818,
+      "text_query": "kids g shock watches boys",
+      "photo_of": "B0183UDXHA",
+      "image_query": "",
+      "recall_other_exact@10": 1.0,
+      "exact_in_top10": 7,
+      "top10": [
+        "B07T46LZQM",
+        "B07VSVB73X",
+        "B07RJ2H8P5",
+        "B07TD3NVQ3",
+        "B07W49VPRH",
+        "B07KT2BL2X",
+        "B07QV1S1H5",
+        "B07GLQZY4W",
+        "B07W5W2YP9",
+        "B00ATXGZMK"
+      ]
+    },
+    {
+      "query_id": 65347,
+      "text_query": "mamoru hosoda",
+      "photo_of": "B01GJ9CY90",
+      "image_query": "",
+      "recall_other_exact@10": 0.6666666666666666,
+      "exact_in_top10": 2,
+      "top10": [
+        "B01GJ9EBSW",
+        "B07NQQ3RYG",
+        "B07F8LRK2H",
+        "B073S29JDW",
+        "B01D7AA21G",
+        "B078SNJK8G",
+        "B06WD5NQS4",
+        "B01I59N14E",
+        "B074R4KSTM",
+        "B07LDCG9DL"
+      ]
+    },
+    {
+      "query_id": 60267,
+      "text_query": "lash bed",
+      "photo_of": "B00A1VCHY0",
+      "image_query": "",
+      "recall_other_exact@10": 0.7142857142857143,
+      "exact_in_top10": 10,
+      "top10": [
+        "B00GO7Y72K",
+        "B07MG4MMN6",
+        "B07W52SFDX",
+        "B00A8AMR8A",
+        "B07B8QC384",
+        "B0773VLLGN",
+        "B00K0OW60I",
+        "B0897W114Z",
+        "B07JHB2KZ5",
+        "B0811NLYRY"
+      ]
+    },
+    {
+      "query_id": 114863,
+      "text_query": "yellow joycon skin",
+      "photo_of": "B073W1H758",
+      "image_query": "",
+      "recall_other_exact@10": 0.7142857142857143,
+      "exact_in_top10": 5,
+      "top10": [
+        "B07WZDGH5W",
+        "B077XBWBDP",
+        "B07NVGHL3H",
+        "B07MH1SRQN",
+        "B078KV14YL",
+        "B07XDGCL1Z",
+        "B07Y6BC9TT",
+        "B071P23GD4",
+        "B07Q1FDBTP",
+        "B07V3G6C1F"
+      ]
+    },
+    {
+      "query_id": 5295,
+      "text_query": "8 slotted pot",
+      "photo_of": "B07YG4RD2X",
+      "image_query": "",
+      "recall_other_exact@10": 0.0,
+      "exact_in_top10": 0,
+      "top10": [
+        "B079H11MK2",
+        "B0781XJDLF",
+        "B07C2JYHSP",
+        "B007N70CAG",
+        "B07KW3N785",
+        "B01F4BALUI",
+        "B07C1KNB1D",
+        "B0044V3USU",
+        "B01CNWZPFM",
+        "B001V2QVN6"
+      ]
+    },
+    {
+      "query_id": 45750,
+      "text_query": "girly les stream lights",
+      "photo_of": "B07XFMK5WK",
+      "image_query": "",
+      "recall_other_exact@10": null,
+      "exact_in_top10": 0,
+      "top10": [
+        "B083RT1KCB",
+        "B072C4N649",
+        "B07H3RGNDP",
+        "B08YMZPXLH",
+        "B078S43JGP",
+        "B088YTV3NW",
+        "B07JP4ZJQ8",
+        "B0965D5MJZ",
+        "B07RTS9TLP",
+        "B0777K9RGX"
+      ]
+    },
+    {
+      "query_id": 50223,
+      "text_query": "henry fonda",
+      "photo_of": "1501102176",
+      "image_query": "",
+      "recall_other_exact@10": 0.125,
+      "exact_in_top10": 1,
+      "top10": [
+        "B076DR6H8N",
+        "B000FBF7TS",
+        "B000VZHLCY",
+        "0671612972",
+        "0692133429",
+        "0867193468",
+        "B07W39ZSHV",
+        "B002M3J2RA",
+        "1557539693",
+        "1472835220"
+      ]
+    },
+    {
+      "query_id": 56575,
+      "text_query": "jumbo cupcake pans",
+      "photo_of": "B000NBQFUU",
+      "image_query": "",
+      "recall_other_exact@10": 0.5555555555555556,
+      "exact_in_top10": 5,
+      "top10": [
+        "B07328J6QK",
+        "B001IANICS",
+        "B01FSKDW3S",
+        "B001TO39AO",
+        "B003YKGRDM",
+        "B00KDPLKS8",
+        "B00KIFBI1C",
+        "B007OOX9KI",
+        "B009J9AOEK",
+        "B01HJGJNWS"
+      ]
+    },
+    {
+      "query_id": 18639,
+      "text_query": "bose earbuds",
+      "photo_of": "B002M966FA",
+      "image_query": "",
+      "recall_other_exact@10": 0.6153846153846154,
+      "exact_in_top10": 8,
+      "top10": [
+        "B00X9KV0HU",
+        "B014CI8OWQ",
+        "B07GDTFPR5",
+        "B0748JM8M5",
+        "B07GDSPRF4",
+        "B0756CYWWD",
+        "B079P81YLP",
+        "B01LZI7KQB",
+        "B08C4KWM9T",
+        "B08CJCTG6Z"
+      ]
+    },
+    {
+      "query_id": 55689,
+      "text_query": "jeapordy",
+      "photo_of": "1449498019",
+      "image_query": "",
+      "recall_other_exact@10": 0.7272727272727273,
+      "exact_in_top10": 8,
+      "top10": [
+        "B01J27LQXG",
+        "B00286BZ4Y",
+        "B0093BM38O",
+        "B07VX98G3C",
+        "B01L0CV6OK",
+        "B01N9G2TWA",
+        "1640302875",
+        "B019G0M2WS",
+        "0345499972",
+        "B08CD3QS55"
+      ]
+    },
+    {
+      "query_id": 59603,
+      "text_query": "lady beatnik poetry",
+      "photo_of": "0838756077",
+      "image_query": "",
+      "recall_other_exact@10": 0.16666666666666666,
+      "exact_in_top10": 1,
+      "top10": [
+        "B01JXS89VG",
+        "0812977785",
+        "B07F6YK27Q",
+        "1864709189",
+        "B01IEEJX3S",
+        "B01GIV04O6",
+        "0692133429",
+        "B07F1Z4987",
+        "0867193468",
+        "B07WQZ6T7Y"
+      ]
+    },
+    {
+      "query_id": 77404,
+      "text_query": "panacur for cats",
+      "photo_of": "B00028ZLD6",
+      "image_query": "",
+      "recall_other_exact@10": null,
+      "exact_in_top10": 0,
+      "top10": [
+        "B000296N7S",
+        "B01LAIOOXE",
+        "B01BSG6B6G",
+        "B000HHSHI8",
+        "B019CD4ZDS",
+        "B07622BLD9",
+        "B0015DUBZA",
+        "B01B5NO5BU",
+        "B004LOBELU",
+        "B001R5W5SM"
+      ]
+    }
+  ]
+}

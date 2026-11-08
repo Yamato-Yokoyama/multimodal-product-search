@@ -2,7 +2,7 @@
 
 ✍️ Claude wrote this file (2026-11-08).
 """
-from src.amazon.graph import after_image, decide_route
+from src.amazon.graph import decide_route
 from src.amazon.image_query import image_message
 
 
@@ -16,11 +16,6 @@ def test_follow_up_when_history_exists():
 
 def test_plain_text_first_turn():
     assert decide_route({"query": "bose earbuds", "image": None, "history": []}) == "text"
-
-
-def test_after_image_uses_history():
-    assert after_image({"history": ["Q: a\nA: b"]}) == "contextualize"
-    assert after_image({"history": []}) == "search"
 
 
 def test_image_message_has_text_and_image_parts():

@@ -4,14 +4,14 @@ A shopping assistant over Amazon product data (ESCI). Ask in words or attach a p
 It started from my first RAG project, LangChain RAG Explorer, and reuses its LangGraph flow
 (query rewriting for follow-ups, a critic step, a SQLite checkpointer) with Amazon data only.
 
-Status: trial. Text search is evaluated; the Gemini parts (answers, photo to query) are built but not run yet.
+Status: trial. Text and photo search are evaluated; Gemini answers are built but not run yet.
 
 ## Flow
 
 ```
-input ─ router ─┬─ photo     → describe_image (Gemini) ─┐
-                ├─ follow-up → contextualize ───────────┤
-                └─ text ────────────────────────────────┴→ search → generate → critic → record_history
+input ─ router ─┬─ photo     → image_search (CLIP, photo vs product photos) ──┐
+                ├─ follow-up → contextualize → search (bge-m3) ────────────────┤
+                └─ text ─────────────────→ search (bge-m3) ────────────────────┴→ generate → critic → record_history
 ```
 
 The router looks at the input (photo or not, history or not), not at the meaning of the question.
@@ -25,12 +25,23 @@ The router looks at the input (photo or not, history or not), not at the meaning
 
 ## Results (2026-11-08)
 
-| Search | n | nDCG@10 | Exact Recall@10 |
-|---|---|---|---|
-| Text, bge-m3 | 50 queries | 0.551 | 0.547 |
-| Photo → Gemini → text | not run yet | | |
+Text search, 50 queries, full index (5,904 products):
+
+| Search | nDCG@10 | Exact Recall@10 |
+|---|---|---|
+| Text, bge-m3 | 0.551 | 0.547 |
 
 Unjudged products count as 0, so nDCG may be lower than the true value.
+
+Photo search: for each query, the photo of one Exact product is the query (48 photos; 43 queries have other
+Exact products). The photographed product is removed from the results. Only 2,401 indexed products have a
+SQID CLIP vector, so both rows below search that smaller pool and are not comparable with the table above.
+
+| Search (2,401-product pool) | Recall@10 of the other Exact products | Exact in top 10 |
+|---|---|---|
+| Text query, bge-m3 | 0.599 | 3.71 |
+| Photo, CLIP ViT-L/14 | 0.527 | 3.35 |
+| Photo → Gemini → text | not run yet | |
 
 ## Run
 
