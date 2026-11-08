@@ -1,0 +1,104 @@
+# .github/workflows/ci.yml
+#
+# YAMLの書き方に慣れるための「見本(参考実装)」。今回はTODOにせず、
+# 完成形をそのまま書いて、各行が何をしているかをコメントで説明する。
+# 一通り読んだら、実際にpushしてGitHubのActionsタブで動く様子を確認する。
+#
+# 背景・用語(workflow/job/step/trigger/runner)は
+# docs/notes/github-actions-101-tutorial/01_why_and_what.md、
+# このファイルがどう動くか(push→checkout→pytestまでの流れ)は
+# docs/notes/github-actions-101-tutorial/02_ci_workflow.md を見ながら進める。
+
+# ============================================================
+# name: このworkflow全体の表示名。
+# GitHubの「Actions」タブに一覧で出てくる時のラベルとして使われるだけで、
+# 動作には一切影響しない(純粋にあなたが見分けるための名前、JSONでいう
+# ただのコメント的な役割に近い)。何を書いてもいい。
+# ============================================================
+name: CI
+
+# ============================================================
+# on: 「どんな時に動かすか」の条件(trigger)。
+# ここがJSONと違ってYAML特有の「設定っぽい」部分。ここは自由記述ではなく、
+# GitHub側が決めたイベント名(push, pull_request, schedule, workflow_dispatchなど)
+# の中から選ぶ。今回使うのは2つだけ。
+#
+# 考慮点(質問にあった「push/PRって書くだけでいいのか」への回答):
+#   push と pull_request を両方、branchesを絞らずに書くと、
+#   「PRが出ているブランチにpushする」ケースで push イベントと
+#   pull_requestのsynchronizeイベントの**両方が発火し、CIが2回走る**
+#   という重複が起きる。個人のプロジェクトでは実害はほぼ無い(遅くなる程度)
+#   ので、今回はシンプルさを優先してこのままにする。
+#   もし今後「mainブランチへのpushだけに絞りたい」となったら、
+#     push:
+#       branches: [main]
+#   のように branches: を足せば絞れる、とだけ覚えておけばいい。
+# ============================================================
+on:
+  push:
+  pull_request:
+
+# ============================================================
+# jobs: 実行する「まとまった作業」を1個以上並べる場所。
+# 直下のキー(下の例だと test)は job の ID で、名前は自由。
+# 1つのworkflowに複数jobを書くと、それぞれ別々の使い捨てマシンで
+# (デフォルトでは)並列に走る。今回はやることが1つだけなので job も1個。
+# ============================================================
+jobs:
+  test:
+    # runs-on: このjobをどんなマシン(OS)で走らせるか。
+    # ubuntu-latest は「GitHubが用意する最新のUbuntu環境」という意味の固定値で、
+    # 特別な理由(Windows/mac依存の処理)が無ければ基本これを選んでおけばいい。
+    runs-on: ubuntu-latest
+
+    # steps: このjob内で上から順番に実行される手順のリスト。
+    # 各要素は次の2種類のどちらか:
+    #   - uses: 誰か(GitHubや第三者)が作った「既製の部品(action)」を使う
+    #   - run:  そのままシェルコマンドを1行(または複数行)実行する
+    steps:
+      # 1. リポジトリのコードをrunnerに持ってくる。
+      #    これをやらないと、runnerは中身が空っぽの真っさらなLinuxマシンのまま。
+      #    actions/checkout はGitHub公式の部品で、@v4はバージョン指定
+      #    (npmのpackage.jsonのバージョン指定と同じ発想)。
+      - uses: actions/checkout@v4
+
+      # 2. Python環境をrunner上に用意する。
+      #    with: は、その actions(部品)に渡す「引数」。
+      #    ここでは手元の .venv と揃えて 3.11 を指定する
+      #    (./.venv/bin/python --version で確認済み: Python 3.11.16)。
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 3. 依存パッケージをインストールする。
+      #    ここから先は uses: ではなく run:(生のシェルコマンド)。
+      #    手元でやっているのと全く同じコマンド。
+      - run: pip install -r requirements.txt
+
+      # 4. 本題: embeddingのテストを実行する。
+      #    -v を付けると、GitHub上のログでも各テスト関数名とPASSED/FAILEDが
+      #    1行ずつ見えるようになる(手元でつけているのと同じ理由)。
+      - run: pytest src/embedding_quality_test.py -v
+
+      # 4b. tests/ の下のテスト(Issue #42 の検索評価の指標と部品)を実行する。
+      #     ファイル名を書かなくても、pytest.ini の testpaths = tests で tests/ を探しに行く。
+      #     埋め込みモデルは読み込まないテストだけなので、数秒で終わる。
+      - run: pytest -v
+
+      # 5. requirements.txtの依存パッケージに既知の脆弱性が無いか確認する。
+      #    docs/notes/github-actions-101-tutorial/03_pip_audit_dependency_scanning.md参照。
+      #    pytestと同じく、判断が要らない機械的なチェックなのでLLM/エージェント化はしない。
+      #    continue-on-error: true にしているのは「検出はするがCI全体は赤にしない」ため。
+      #    今の時点で既に39件の既知脆弱性が見つかっている(chromadb/nltk/pypdf/unstructured)が、
+      #    検証無しに緊急でバージョンを上げると別の互換性問題を起こすリスクがあるため、
+      #    今は「見える化だけする」に留め、対応は別途落ち着いてから行う。
+      - run: pip install pip-audit
+      - run: pip-audit -r requirements.txt
+        continue-on-error: true
+
+      # ============================================================
+      # ここから下はまだ書かない(ruffが未インストールのため)。
+      # 02_ci_workflow.md の「4. 運用の仕方」参照。
+      # 導入したら、この続きに次のstepを足す想定:
+      #   - run: ruff check src/
+      # ============================================================

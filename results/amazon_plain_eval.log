@@ -1,0 +1,103 @@
+Loading weights:   0%|          | 0/391 [00:00<?, ?it/s]Loading weights: 100%|██████████| 391/391 [00:00<00:00, 67574.80it/s]
+corpus 5904 products
+indexed 64/5904
+indexed 128/5904
+indexed 192/5904
+indexed 256/5904
+indexed 320/5904
+indexed 384/5904
+indexed 448/5904
+indexed 512/5904
+indexed 576/5904
+indexed 640/5904
+indexed 704/5904
+indexed 768/5904
+indexed 832/5904
+indexed 896/5904
+indexed 960/5904
+indexed 1024/5904
+indexed 1088/5904
+indexed 1152/5904
+indexed 1216/5904
+indexed 1280/5904
+indexed 1344/5904
+indexed 1408/5904
+indexed 1472/5904
+indexed 1536/5904
+indexed 1600/5904
+indexed 1664/5904
+indexed 1728/5904
+indexed 1792/5904
+indexed 1856/5904
+indexed 1920/5904
+indexed 1984/5904
+indexed 2048/5904
+indexed 2112/5904
+indexed 2176/5904
+indexed 2240/5904
+indexed 2304/5904
+indexed 2368/5904
+indexed 2432/5904
+indexed 2496/5904
+indexed 2560/5904
+indexed 2624/5904
+indexed 2688/5904
+indexed 2752/5904
+indexed 2816/5904
+indexed 2880/5904
+indexed 2944/5904
+indexed 3008/5904
+indexed 3072/5904
+indexed 3136/5904
+indexed 3200/5904
+indexed 3264/5904
+indexed 3328/5904
+indexed 3392/5904
+indexed 3456/5904
+indexed 3520/5904
+indexed 3584/5904
+indexed 3648/5904
+indexed 3712/5904
+indexed 3776/5904
+indexed 3840/5904
+indexed 3904/5904
+indexed 3968/5904
+indexed 4032/5904
+indexed 4096/5904
+indexed 4160/5904
+indexed 4224/5904
+indexed 4288/5904
+indexed 4352/5904
+indexed 4416/5904
+indexed 4480/5904
+indexed 4544/5904
+indexed 4608/5904
+indexed 4672/5904
+indexed 4736/5904
+indexed 4800/5904
+indexed 4864/5904
+indexed 4928/5904
+indexed 4992/5904
+indexed 5056/5904
+indexed 5120/5904
+indexed 5184/5904
+indexed 5248/5904
+indexed 5312/5904
+indexed 5376/5904
+indexed 5440/5904
+indexed 5504/5904
+indexed 5568/5904
+indexed 5632/5904
+indexed 5696/5904
+indexed 5760/5904
+indexed 5824/5904
+indexed 5888/5904
+indexed 5904/5904
+{
+  "n": 50,
+  "corpus_size": 5904,
+  "mean_ndcg@10": 0.5514474073729545,
+  "mean_recall_exact@10": 0.546994560994561,
+  "mean_exact_in_top10": 3.98,
+  "mean_judged_in_top10": 6.74
+}

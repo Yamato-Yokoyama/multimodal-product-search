@@ -1,0 +1,47 @@
+digraph RouterOverview {
+    // グラフ全体の設定
+    rankdir=TB;
+    node [shape=box, style=rounded, fontname="Helvetica"];
+    edge [fontname="Helvetica", fontsize=10];
+
+    // 入力
+    user_query [label="User Query", shape=ellipse, style=filled, fillcolor=lightblue];
+
+    // Router 層
+    intent_classifier [label="Intent Classifier\n(LLM)", style=filled, fillcolor=lightyellow];
+
+    // 3 分岐
+    semantic_branch [label="Semantic Branch\n(existing RAG)"];
+    aggregation_branch [label="Aggregation Branch\n(pandas / SQL)"];
+    table_branch [label="Table Display Branch\n(structured output)"];
+
+    // 既存コンポーネント(semantic branch 内部)
+    search_fn [label="search()\n[existing]", shape=box, style="rounded,filled", fillcolor=lavender];
+    generate_fn [label="generate_answer()\n[existing]", shape=box, style="rounded,filled", fillcolor=lavender];
+
+    // 集計層
+    structured_data [label="Structured Data Layer\n(receipts.json → DataFrame)", shape=cylinder, style=filled, fillcolor=lightgray];
+
+    // 出力
+    response [label="Response to User", shape=ellipse, style=filled, fillcolor=lightgreen];
+
+    // データフロー
+    user_query -> intent_classifier;
+
+    intent_classifier -> semantic_branch [label="semantic"];
+    intent_classifier -> aggregation_branch [label="aggregation"];
+    intent_classifier -> table_branch [label="table_display"];
+
+    // semantic branch 内部
+    semantic_branch -> search_fn;
+    search_fn -> generate_fn [label="chunks"];
+    generate_fn -> response;
+
+    // aggregation branch
+    aggregation_branch -> structured_data [label="query params"];
+    structured_data -> generate_fn [label="computed result", style=dashed];
+
+    // table branch
+    table_branch -> structured_data;
+    structured_data -> response [label="table", style=dashed];
+}

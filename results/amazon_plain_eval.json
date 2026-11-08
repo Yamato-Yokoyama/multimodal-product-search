@@ -1,0 +1,3062 @@
+{
+  "summary": {
+    "n": 50,
+    "corpus_size": 5904,
+    "mean_ndcg@10": 0.5514474073729545,
+    "mean_recall_exact@10": 0.546994560994561,
+    "mean_exact_in_top10": 3.98,
+    "mean_judged_in_top10": 6.74
+  },
+  "queries": [
+    {
+      "query_id": 41100,
+      "query": "flat black angelus paint",
+      "ndcg@10": 0.9367673632754434,
+      "recall_exact@10": 1.0,
+      "exact_in_top10": 3,
+      "judged_in_top10": 10,
+      "top10": [
+        {
+          "product_id": "B0196TA1YA",
+          "title": "Angelus Acrylic Leather Paint, Flat Black",
+          "label": "E"
+        },
+        {
+          "product_id": "B00MPXF6XG",
+          "title": "Angelus Acrylic Leather Paint, Flat Black",
+          "label": "E"
+        },
+        {
+          "product_id": "B0196TA2WQ",
+          "title": "Angelus Acrylic Leather Paint, Flat White",
+          "label": "S"
+        },
+        {
+          "product_id": "B01H0P3LP8",
+          "title": "Angelus Acrylic Leather Paint, Flat White",
+          "label": "S"
+        },
+        {
+          "product_id": "B00I9L5BMO",
+          "title": "Angelus Acrylic Paints 1oz Color Black",
+          "label": "S"
+        },
+        {
+          "product_id": "B00B8BSV74",
+          "title": "Angelus Brand Acrylic Leather Paint Black 1oz",
+          "label": "S"
+        },
+        {
+          "product_id": "B07YG6KY7W",
+          "title": "Leather Paint 4 Oz Flat Black (2-Pack)",
+          "label": "E"
+        },
+        {
+          "product_id": "B0196T916Y",
+          "title": "Angelus Acrylic Leather Paint, Black 4oz",
+          "label": "S"
+        },
+        {
+          "product_id": "B018R47LSE",
+          "title": "Angelus Walk on Black Paint Restorer",
+          "label": "S"
+        },
+        {
+          "product_id": "B01KMPHK3C",
+          "title": "Angelus Brand Acrylic Leather Paint Waterproof 1oz - Flat Black & Flat White Duo",
+          "label": "S"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 75709,
+      "query": "oneplus tv 55 inch",
+      "ndcg@10": 0.19771687406647587,
+      "recall_exact@10": 0.0,
+      "exact_in_top10": 0,
+      "judged_in_top10": 8,
+      "top10": [
+        {
+          "product_id": "B08WFV7L3N",
+          "title": "LG OLED C1 Series 55” Alexa Built-in 4k Smart TV (3840 x 2160), 120Hz Refresh Rate, AI-Powered 4K, Dolby Cinema, WiSA Ready, Gaming Mode (OLED55C1PUB, 2021)",
+          "label": "S"
+        },
+        {
+          "product_id": "B0885N4FPZ",
+          "title": "TCL 55-inch 5-Series 4K UHD Dolby Vision HDR QLED Roku Smart TV - 55S535, 2021 Model",
+          "label": "S"
+        },
+        {
+          "product_id": "B08Z8PQ4KB",
+          "title": "Hisense 55A6G 55-Inch 4K Ultra HD Android Smart TV with Alexa Compatibility (2021 Model)",
+          "label": "S"
+        },
+        {
+          "product_id": "B07JJZPZNS",
+          "title": "TCL 55S425 55 inch 4K Smart LED Roku TV (2019)",
+          "label": "S"
+        },
+        {
+          "product_id": "B084YQ8CPT",
+          "title": "SAMSUNG UN55TU8000 55\" 4K Ultra HD Smart LED TV (2020 Model) w/Deco Gear Soundbar Bundle",
+          "label": null
+        },
+        {
+          "product_id": "B08QXCPPLH",
+          "title": "Sony A90J 55 Inch TV: BRAVIA XR OLED 4K Ultra HD Smart Google TV with Dolby Vision HDR and Alexa Compatibility XR55A90J- 2021 Model",
+          "label": null
+        },
+        {
+          "product_id": "B092Q527H1",
+          "title": "VIZIO 55-Inch V-Series 4K UHD LED HDR Smart TV with Apple AirPlay and Chromecast Built-in, Dolby Vision, HDR10+, HDMI 2.1, Auto Game Mode and Low Latency Gaming, V555-J01, 2021 Model",
+          "label": "S"
+        },
+        {
+          "product_id": "B084JH43DJ",
+          "title": "SAMSUNG 55-Inch Class Crystal UHD TU-8000 Series - 4K UHD HDR Smart TV with Alexa Built-in (UN55TU8000FXZA, 2020 Model)",
+          "label": "S"
+        },
+        {
+          "product_id": "B08QXFT4M9",
+          "title": "Sony X80J 55 Inch TV: 4K Ultra HD LED Smart Google TV with Dolby Vision HDR and Alexa Compatibility KD55X80J- 2021 Model",
+          "label": "S"
+        },
+        {
+          "product_id": "B08Z21BBWK",
+          "title": "SAMSUNG 55-Inch Class Crystal UHD AU8000 Series - 4K UHD HDR Smart TV with Alexa Built-in (UN55AU8000FXZA, 2021 Model)",
+          "label": "S"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 30104,
+      "query": "cricut easy pres",
+      "ndcg@10": 0.6472588217382083,
+      "recall_exact@10": 1.0,
+      "exact_in_top10": 3,
+      "judged_in_top10": 6,
+      "top10": [
+        {
+          "product_id": "B07NLPW9WH",
+          "title": "Cricut EasyPress Tote, Carrying Case for Cricut Easy Press Machines and Accessories, Compatible with Cricut EasyPress and Cricut Easy Press 2 - 9\"x 9\"",
+          "label": "C"
+        },
+        {
+          "product_id": "B07VKPZS24",
+          "title": "Cricut EasyPress Mini - Heat Press Machine For T Shirts Shoes Hats and Small HTV Vinyl Projects",
+          "label": "E"
+        },
+        {
+          "product_id": "B07PW9P7FM",
+          "title": "Cricut EasyPress 2 - Heat Press Machine For T Shirts and HTV Vinyl Projects, Mint, 9\" x 9\"",
+          "label": "E"
+        },
+        {
+          "product_id": "B07VNB6P4D",
+          "title": "Cricut Lilac Maker",
+          "label": "C"
+        },
+        {
+          "product_id": "B07L57NK5Z",
+          "title": "Cricut EasyPress 2 Heat Press (12\" x 10\"), 12 x 10, Rasberry",
+          "label": "E"
+        },
+        {
+          "product_id": "B08TCJF2YW",
+          "title": "Cricut Maker Beginner Bundle - Iron-On, Vinyl, Tools - Blue Machine",
+          "label": null
+        },
+        {
+          "product_id": "B087J9BBKJ",
+          "title": "CRICUT FOR BEGINNERS: THE ULTIMATE GUIDE TO LEARN HOW TO USE YOUR CRICUT MACHINE. BEAUTIFY AND DECORATE YOUR SPACES WITH PRACTICAL EXAMPLES AND PROJECT IDEAS",
+          "label": "C"
+        },
+        {
+          "product_id": "B003CHMZYM",
+          "title": "Environmental Technology 33720 1-Pound Kit Casting' Craft Easymold Silicone Rubber",
+          "label": null
+        },
+        {
+          "product_id": "B07N38BPBK",
+          "title": "INTBUYING Screen Printing Press T-Shirt Screen Printing Machine One Color Manual",
+          "label": null
+        },
+        {
+          "product_id": "B07VHL892F",
+          "title": "Stipples Made Easy Pattern Bundle: 301, 306, 309",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 94688,
+      "query": "small dog brush for yorkie",
+      "ndcg@10": 0.5374579153553242,
+      "recall_exact@10": 1.0,
+      "exact_in_top10": 1,
+      "judged_in_top10": 8,
+      "top10": [
+        {
+          "product_id": "B005KSOB34",
+          "title": "ConairPRO dog & cat Small Pin Brush",
+          "label": "S"
+        },
+        {
+          "product_id": "B0817V1D7K",
+          "title": "ROPO Dog Grooming Brush, Pet Shampoo Bath Brush Soothing Massage Rubber Comb with Adjustable Ring Handle for Long Short Haired Dogs and Cats 2pcs",
+          "label": "S"
+        },
+        {
+          "product_id": "B07TB1NG2Q",
+          "title": "Dog Brush Dog Grooming Brush Self Cleaning Slicker Brush and A Metal Comb - Professional Pet Grooming Brush for Small, Medium & Large Dogs, Cats and Rabbit - Including Hair-Shedding Pets",
+          "label": "S"
+        },
+        {
+          "product_id": "B07JYYHV5L",
+          "title": "Comfort My Dog",
+          "label": null
+        },
+        {
+          "product_id": "B071VD9TCC",
+          "title": "Glendan Dog Brush & Cat Brush- Slicker Pet Grooming Brush- Shedding Grooming Tools(Pink)",
+          "label": "E"
+        },
+        {
+          "product_id": "B00757W4KK",
+          "title": "HARTZ, Groomer's Best Small Slicker Brush for Cats and Small Dogs, Black/Violet, 1 Count",
+          "label": "S"
+        },
+        {
+          "product_id": "B07STPV7DJ",
+          "title": "KylePet Dog Brush, Double Sided Pet Slicker Brush with Bamboo Handle for Dogs and Cats Long Hair Pets Grooming Comb for Removing Shedding, Tangles and Dead Undercoat",
+          "label": "S"
+        },
+        {
+          "product_id": "B01CUXOFNC",
+          "title": "(Ship from USA) JUICY COUTURE CRITTOURE BRUSH FOR THE DECADENT DOG ~PAMPER YOUR POOCH GREAT GIFT .ITEM-NO/EGB41S-1GFT5753",
+          "label": null
+        },
+        {
+          "product_id": "B07K11PFQ1",
+          "title": "Groomist Ball Tip Porcupine Pin Dog Brush, With Ergonomic Soft Grip Handle | Dog Brushes For Shedding and Detangling",
+          "label": "S"
+        },
+        {
+          "product_id": "B07R3YKF17",
+          "title": "Ultimate 2-in-1 Dog Grooming Brush Detangles & Massages Long Haired Dogs & Cats While Creating a Soft Coat Shine. Daily Grooming to Keep Your Dog's & Cat's hair smooth & tangle free. Happy Brushing.",
+          "label": "S"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 56898,
+      "query": "kamen rider build dx rabbit",
+      "ndcg@10": 0.8714545868221136,
+      "recall_exact@10": 1.0,
+      "exact_in_top10": 6,
+      "judged_in_top10": 10,
+      "top10": [
+        {
+          "product_id": "B07CRHYRS9",
+          "title": "BANDAI Kamen Rider Build DX Rabbit Evol Bottle & Dragon Evol Bottle Set",
+          "label": "E"
+        },
+        {
+          "product_id": "B07RKRPWK1",
+          "title": "BandaiProduct Mask Rider Build Kamen Rider Build DX Special Set (1) Kamen Rider Build Rabbit Tank Form (2) Masked Rider Build Hedgehog Tank Form (3) Kamen Rider Build Rabbit Vacuum Cleaner Form",
+          "label": "S"
+        },
+        {
+          "product_id": "B07B4GZ3CS",
+          "title": "Bandai Kamen Rider Build DX Full Full Rabbit Tank Bottle",
+          "label": "E"
+        },
+        {
+          "product_id": "B07Q5Y1PF6",
+          "title": "Bandai Kamen Rider Zi-O DX Build Rabbit Tank Hazard Form Ride Watch",
+          "label": "C"
+        },
+        {
+          "product_id": "B07DYMZKCC",
+          "title": "Bandai Kamen Rider Build DX Gold Rabbit & Silver Dragon Full Bottle Set",
+          "label": "E"
+        },
+        {
+          "product_id": "B07H3ZVWD8",
+          "title": "Bandai Kamen Rider Build DX Cross-Z Build Can",
+          "label": "E"
+        },
+        {
+          "product_id": "B07N8M96CN",
+          "title": "Bandai Kamen Rider Build DX Build Driver & DX Rabbit Tank Sparkling & Full Bottle Holder & 9 Types Full Bottle Special Set Best Match ! are You Ready ?",
+          "label": "E"
+        },
+        {
+          "product_id": "B07B4NTJ7D",
+          "title": "Bandai Kamen Rider Build DX Furu Furu Rabbit Tank Bottle & Hazard Trigger Set",
+          "label": "E"
+        },
+        {
+          "product_id": "B077VKWTWP",
+          "title": "Bandai Kamen Rider Build DX Rabbit Tank Sparkling",
+          "label": "C"
+        },
+        {
+          "product_id": "B074ZBK8R5",
+          "title": "Bandai Kamen Rider Build DX Build Driver",
+          "label": "C"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 13411,
+      "query": "basic wiring circuit kit kids",
+      "ndcg@10": 0.7975167679274937,
+      "recall_exact@10": 0.6153846153846154,
+      "exact_in_top10": 8,
+      "judged_in_top10": 9,
+      "top10": [
+        {
+          "product_id": "B078XV3RK2",
+          "title": "REXQualis Electronics Basic Kit w/Power Supply Module, Breadboard, Jumper Wire, LED,Resistor, comes with more than 300pcs sensors and components for fun and simple electronic projects.",
+          "label": "E"
+        },
+        {
+          "product_id": "B07FLJT72Q",
+          "title": "DEYUE 398 Electronic Starter Fun Kit Bundle | Basic Electronics Components Starter Kit | for Arduino, Raspberry Pi, STM32 | Power Supply Module, Power Adaptor, Jumper Wire",
+          "label": "I"
+        },
+        {
+          "product_id": "B01IH4VJRI",
+          "title": "kuman Electronic Fun Bundle Learning Kit for Arduino Raspberry pi with Breadboard Cable Resistor, Capacitor, LED, Potentiometer (236 Items) K66",
+          "label": "E"
+        },
+        {
+          "product_id": "B07VWLJTCR",
+          "title": "Organizer Upgraded Electronics Fun Kit w/Power Supply Module, Jumper Wire, Precision Potentiometer, 830 tie-Points Breadboard for Arduino, STM32",
+          "label": "E"
+        },
+        {
+          "product_id": "B07Y55P7GR",
+          "title": "KEYESTUDIO Microbit Accessories STEM Starter Kit for BBC Micro:bit, Smart Honeycomb Wearable Breakout Board Coding Kit for Kids Teens",
+          "label": "E"
+        },
+        {
+          "product_id": "B07Z1BK7NG",
+          "title": "WayinTop Electronics Component Fun Kit w/E-Book, Upgraded Electronic Starter Kit with Breadboard Jumper Wires Kit, PCB Soldering Kit, LEDs & Resisitor Kit for Arduino/for Raspberry pi/ESP32/ESP8266",
+          "label": "E"
+        },
+        {
+          "product_id": "B01L0ZL8N6",
+          "title": "Smraza Super Starter Kit Project Kit with Breadboard, Power Supply, Jumper Wires, Resistors, LED, LCD 1602, Sensors, Detailed Tutorial for Project, Compatible with Arduino",
+          "label": "E"
+        },
+        {
+          "product_id": "B073ZC68QG",
+          "title": "REXQualis Electronics Component Fun Kit w/Power Supply Module, Jumper Wire, 830 tie-Points Breadboard, Precision Potentiometer,Resistor Compatible with Arduino, Raspberry Pi, STM32",
+          "label": "E"
+        },
+        {
+          "product_id": "B07Z4W6V6R",
+          "title": "Makeronics 560 Pieces Jumper Wire Kit with 14 Lengths for Breadboard Prototyping Solder Circuits | Electronics Experiment | Arduino or Raspberry Pi or Jetson Nano | Storage Box",
+          "label": "E"
+        },
+        {
+          "product_id": "B07F3B2YNV",
+          "title": "Wilton Build it Yourself Mini Village Gingerbread Decorating Kit",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 48129,
+      "query": "gym set for men dumbells",
+      "ndcg@10": 0.7485712675553224,
+      "recall_exact@10": 0.4666666666666667,
+      "exact_in_top10": 7,
+      "judged_in_top10": 8,
+      "top10": [
+        {
+          "product_id": "B01N9FNI9V",
+          "title": "Yaheetech 66LB Weight Dumbbell Set Fitness Adjustable Cap Gym/Home Barbell Plates Body Workout for Women and Men Strength Training",
+          "label": "E"
+        },
+        {
+          "product_id": "B00RSDOU2G",
+          "title": "Unipack Dumbbells 2 X 52.5 LBS Adjustable Cast Iron Set. Total 105 Lbs",
+          "label": "E"
+        },
+        {
+          "product_id": "B084LF5SL1",
+          "title": "papababe Adjustable Dumbbells Cast Iron with Connector 40 50 65 105 200, Adjustable Dumbbell Sets, Lifting Dumbells. (20, Pair)",
+          "label": null
+        },
+        {
+          "product_id": "B00B4RVYPS",
+          "title": "JFIT Dumbbell Set w/Durable Rack, Double Neoprene Coated Workout Weights, Solid Design Rack, 32 LB Set",
+          "label": "E"
+        },
+        {
+          "product_id": "B01MYYVGU7",
+          "title": "BalanceFrom BF-D358 Dumbbell Set with Stand, 32 lb",
+          "label": "E"
+        },
+        {
+          "product_id": "B00LHLH8GA",
+          "title": "Fitness Republic Neoprene Weights Dumbbells Set, Hand Weights for Women Dumbells, 5 Set Weights Non-Slip, Hex Shape, Free Weight Dumbbell Sets - 5 Pairs Set (3lb,5lb,8lb,10lb & 12lb)",
+          "label": null
+        },
+        {
+          "product_id": "B002I00P8W",
+          "title": "Marcy 40 Pound Vinyl Dumbbell Set with Adjustable Weights - Weight Set for Weightlifting and Body Building VB-40",
+          "label": "E"
+        },
+        {
+          "product_id": "B07C9QTKNZ",
+          "title": "CAP Barbell 150-lb Hex Dumbbell Weight Set with Vertical Rack",
+          "label": "E"
+        },
+        {
+          "product_id": "B07QZ1NYJ9",
+          "title": "Ativafit Adjustable Dumbbell Fitness Dial Dumbbell with Handle and Weight Plate for Home Gym Note: Single (71.5 lbs)",
+          "label": "E"
+        },
+        {
+          "product_id": "B07NBW32B8",
+          "title": "Palace Learning Dumbbell Workout Exercise Poster - Free Weight Body Building Guide | Home Gym Chart | Laminated, 18\" x 24\"",
+          "label": "C"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 50118,
+      "query": "hellboy toy",
+      "ndcg@10": 0.9375119002569003,
+      "recall_exact@10": 0.6923076923076923,
+      "exact_in_top10": 9,
+      "judged_in_top10": 10,
+      "top10": [
+        {
+          "product_id": "1596176040",
+          "title": "Hellboy Book And Figure Boxed Set",
+          "label": "E"
+        },
+        {
+          "product_id": "B000L2D98C",
+          "title": "Big Blast Hellboy Action Figure",
+          "label": "E"
+        },
+        {
+          "product_id": "B07W2X4H8D",
+          "title": "CAFELE Men's Hellboy Action Figure Collectible Toy for Decoration Gift 7 inch",
+          "label": "E"
+        },
+        {
+          "product_id": "B079TKYF3Z",
+          "title": "Funko Dorbz: Hellboy- Hellboy",
+          "label": "E"
+        },
+        {
+          "product_id": "B07BKGCQTV",
+          "title": "Mega Construx Probuilder Hellboy",
+          "label": "E"
+        },
+        {
+          "product_id": "B07FZYDTJ2",
+          "title": "1000 TOYS Hellboy Standard Version 1/12 Scale AF",
+          "label": "E"
+        },
+        {
+          "product_id": "B07PKP1C11",
+          "title": "Lucky Lian Men's Hellboy Action Figure Collectible Kid's Hellboy Figure Toys Birthday Gift",
+          "label": "E"
+        },
+        {
+          "product_id": "B001B1C9FQ",
+          "title": "Dark Horse Comics - Hellboy pack 3 figurines 10 cm",
+          "label": "S"
+        },
+        {
+          "product_id": "B076X91719",
+          "title": "Funko Pop Movies: Hellboy - Hellboy with Excalibur Vinyl Figure",
+          "label": "E"
+        },
+        {
+          "product_id": "B07FVXX673",
+          "title": "Diamond Comic Distributors Hellboy 1/12 Scale Action Figure Standard",
+          "label": "E"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 31053,
+      "query": "cute pajamas for teen girls",
+      "ndcg@10": 0.42942454339338365,
+      "recall_exact@10": 0.13333333333333333,
+      "exact_in_top10": 4,
+      "judged_in_top10": 5,
+      "top10": [
+        {
+          "product_id": "B086XJKNQW",
+          "title": "Pajamagram Teen Girls Pajamas - Girls Pajamas, Aqua Stars, 14",
+          "label": "S"
+        },
+        {
+          "product_id": "B088Q6GSGD",
+          "title": "Big Girls Tank Top& Shorts Pajamas Set Size 18 - Summer Cute Cat Cool Cotton Blend Teens/Tween Pyjamas",
+          "label": "E"
+        },
+        {
+          "product_id": "B08MK3XDZG",
+          "title": "Hotouch Pajamas for Teen Girls Tie Dye PJ Jogger Set for Women 2 Piece Sleepwear",
+          "label": "E"
+        },
+        {
+          "product_id": "B07D5G863T",
+          "title": "Vopmocld Big Girls' Lovely Sleepy Panda Sleepwears Cute Cartoon 2PCS Pajama Sets, Pink, 14",
+          "label": null
+        },
+        {
+          "product_id": "B08521SGW3",
+          "title": "Ekouaer Pajamas Women Short Sleeve with Plaid Shorts Cute Sleepwear Teen Girl Cartoon Sleep Tee Summer Lounge Pj Set Gift",
+          "label": "E"
+        },
+        {
+          "product_id": "B07GNQWSXZ",
+          "title": "Vopmocld Big Girls Pajama Sets Long Sleeve Striped Lovely Cats Sleepwear 2 Piece PJS, Gray, 12",
+          "label": null
+        },
+        {
+          "product_id": "B088C2PC6C",
+          "title": "SWOMOG Womens Pajama Sets Cute Pajama Sets Teen Girls Cartoon Printed 2 Piece Sleep Tee Set Soft Juniors Lounge Set Gift",
+          "label": "E"
+        },
+        {
+          "product_id": "B07RJBDD5N",
+          "title": "VAENAIT BABY Kids Girls Long Sleeve Modal Sleepwear Pajamas 2pcs Set Rib Knit Beige S",
+          "label": null
+        },
+        {
+          "product_id": "B08842F2LP",
+          "title": "Hello Kitty Women's Long Dorm Nightgown Tie Dye Pajama Sleepwear, Pink, Small",
+          "label": null
+        },
+        {
+          "product_id": "B07KTBGT9Z",
+          "title": "Lazy One Flapjacks, Matching Pajamas for The Dog, Baby, Kids, Teens, and Adults (Bear Bum, Large)",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 71218,
+      "query": "mr clean bathroom lemon bathroom vlesner",
+      "ndcg@10": 0.5941937818712575,
+      "recall_exact@10": 0.75,
+      "exact_in_top10": 3,
+      "judged_in_top10": 9,
+      "top10": [
+        {
+          "product_id": "B081NRJDL2",
+          "title": "Mr. Clean All Purpose Multi-Surface Pet Liquid Cleaner with Febreze Odor Defense | Has Odor Converters | Eliminates Odor - 45 Ounce Bottle (Pack of 2)",
+          "label": "S"
+        },
+        {
+          "product_id": "B07MS2ZQP6",
+          "title": "Mr. Clean, Deep Cleaning Mist Multi-Surface Spray, Lemon Zest Scent Refill, 1 Count, 16 Fl Ounce",
+          "label": "E"
+        },
+        {
+          "product_id": "B084Z9RFKF",
+          "title": "Mr.Clean Clean Freak Deep Cleaning Mist Lavender 1-16 FL OZ Spray Bottle",
+          "label": "S"
+        },
+        {
+          "product_id": "B07PHL372F",
+          "title": "Mr. Clean Freak Deep Cleaning Mist Multi-Surface Spray Lemon Zest Bundle, 1 Starter + 1 Refill",
+          "label": "E"
+        },
+        {
+          "product_id": "B06XT161H7",
+          "title": "Mr. Clean Multipurpose Cleaning Solution with Febreze, 128 oz. Capacity Bottle, Meadows and Rain Scent",
+          "label": "S"
+        },
+        {
+          "product_id": "B08682VPDV",
+          "title": "Mr. Clean Freak Deep Cleaning Mist Multi-Surface Spray Lavender Bundle, 1 Starter + 1 Refill",
+          "label": "S"
+        },
+        {
+          "product_id": "B081P3P9DZ",
+          "title": "Mr. Clean All Purpose Multi-Surface Pet Liquid Cleaner with Febreze Odor Defense | Has Odor Converters | Eliminates Odor - 45 Ounce Each Bottle (Pack of 4)",
+          "label": "S"
+        },
+        {
+          "product_id": "B00CHUA0QA",
+          "title": "P&G Professional Floor Cleaner from Mr. Clean Professional, Bulk Liquid Concentrate fro Hardwood, tile or Terrazo Floors, Commercial Use, Lemon Scent, 1 Gal. (Case of 3) - PGC02621CT,Yellow",
+          "label": "S"
+        },
+        {
+          "product_id": "B07D32ZWPQ",
+          "title": "Bath Set-Bundled With One TMNT Wash Cloth And One Shampoo And Conditioner",
+          "label": null
+        },
+        {
+          "product_id": "B002YTLFBI",
+          "title": "Mr. Clean Multi-Surfaces 128 Fluid Ounce Bottle",
+          "label": "E"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 5043,
+      "query": "6ft surfboard bag",
+      "ndcg@10": 0.826813366651774,
+      "recall_exact@10": 0.6153846153846154,
+      "exact_in_top10": 8,
+      "judged_in_top10": 10,
+      "top10": [
+        {
+          "product_id": "B0838FR3PW",
+          "title": "OCEANBROAD Surfboard Longboard Bag 6'0, 6'6, 7'0, 7'6, 8'0, 8'6, 9'0, 9'6, 10'0",
+          "label": "E"
+        },
+        {
+          "product_id": "B01HJ24NFE",
+          "title": "South Bay Board Co. - Premium Surfboard Bags & SUP Paddle Board Bags (9' Surfboard Bag) (Grey, 6' Surfboard Bag)",
+          "label": "E"
+        },
+        {
+          "product_id": "B07QGVXJGW",
+          "title": "Abahub Premium 6'0 x 22 Surfboard Travel Bag, Foam Padded Surf Board Cover, Shortboard Carrying Bags for Surfing, Outdoor, Airplane, Car, Truck",
+          "label": "E"
+        },
+        {
+          "product_id": "B000G5UYAA",
+          "title": "Dakine Daylight Surf Thruster Bag - White - 6'",
+          "label": "I"
+        },
+        {
+          "product_id": "B001JK3QXS",
+          "title": "Dakine Daylight Surfboard Bag-Thruster, White, 6'0\"",
+          "label": "E"
+        },
+        {
+          "product_id": "B07J2RXQ93",
+          "title": "Creatures of Leisure Surfboard Travel Bag, 6ft 7in",
+          "label": "I"
+        },
+        {
+          "product_id": "B00KOH3JSY",
+          "title": "Curve Surfboard Bag Day Surfboard Cover - Supermodel SHORTBOARD Size 5'6 to 7'2 (6'0)",
+          "label": "E"
+        },
+        {
+          "product_id": "B01HWKFCVW",
+          "title": "Curve New Surfboard Bag Mini Simmons Surfboard Day Cover - Supermodel Retro Size 5'3 to 6'3 (5'3 Retro)",
+          "label": "E"
+        },
+        {
+          "product_id": "B06ZYXRW6L",
+          "title": "PAMGEA Surfboard Cover (Hybrid, 6'0\")",
+          "label": "E"
+        },
+        {
+          "product_id": "B00HTA25W0",
+          "title": "Dakine Daylight Deluxe Thruster Bag, Charcoal, 6-Feet 2-Inch",
+          "label": "E"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 96432,
+      "query": "space base board game",
+      "ndcg@10": 0.47428790911746715,
+      "recall_exact@10": 0.3333333333333333,
+      "exact_in_top10": 2,
+      "judged_in_top10": 8,
+      "top10": [
+        {
+          "product_id": "B0793MT3Y6",
+          "title": "Space Base",
+          "label": "E"
+        },
+        {
+          "product_id": "B00IZEUFIA",
+          "title": "Splendor Board Game (Base Game) | Family Board Game | Board Game for Adults and Family | Strategy Game | Ages 10+ | 2 to 4 players | Average Playtime 30 minutes | Made by Space Cowboys",
+          "label": "S"
+        },
+        {
+          "product_id": "B01MA5AJY9",
+          "title": "Dominion Big Box II Board Game",
+          "label": "S"
+        },
+        {
+          "product_id": "B019T7DPYW",
+          "title": "Sums in Space an Addition Subtraction Math Game for Kids",
+          "label": null
+        },
+        {
+          "product_id": "B07QSYF8P4",
+          "title": "Space Base: Command Station",
+          "label": "E"
+        },
+        {
+          "product_id": "B07YFFZ9DT",
+          "title": "CATAN Starfarers Board Game 2nd Ed. (Base Game) | Family Board Game for Adults and Kids | Adventure Board Game | Ages 14+ | 3 to 4 players | Average Playtime 120 minutes | Made by Catan Studio",
+          "label": "S"
+        },
+        {
+          "product_id": "B01F46RPS4",
+          "title": "King of Tokyo: New Edition Board Game",
+          "label": null
+        },
+        {
+          "product_id": "B08QPN6KGH",
+          "title": "Happy Little Dinosaurs Base Game",
+          "label": "S"
+        },
+        {
+          "product_id": "B08Q4H5ZV7",
+          "title": "MONOPOLY: Space Jam A New Legacy Edition Family Board Game, Strategy Game, Kids Ages 8 and Up, Lebron James Space Jam Game, Shoot Hoops",
+          "label": "S"
+        },
+        {
+          "product_id": "B08DG63MBG",
+          "title": "Splendor Marvel Board Game | Family Board Game | Board Game for Adults and Family | Super Heroes Strategy Game | Ages 10+ | 2 to 4 players | Average Playtime 30 minutes | Made by Space Cowboys",
+          "label": "S"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 75831,
+      "query": "opi meet a boy as cute as can be",
+      "ndcg@10": 0.08780082051358085,
+      "recall_exact@10": 0.16666666666666666,
+      "exact_in_top10": 1,
+      "judged_in_top10": 2,
+      "top10": [
+        {
+          "product_id": "0756634687",
+          "title": "Baby Touch and Feel: Animals",
+          "label": null
+        },
+        {
+          "product_id": "B006GLOKK8",
+          "title": "Here Was a Man",
+          "label": null
+        },
+        {
+          "product_id": "B087Z83D96",
+          "title": "Her Boy",
+          "label": null
+        },
+        {
+          "product_id": "B0081BYVZU",
+          "title": "OPI Mini Cuticle Nipper",
+          "label": "I"
+        },
+        {
+          "product_id": "1945431148",
+          "title": "Balls: How to keep your relationship alive when you live with a sports-obsessed guy",
+          "label": null
+        },
+        {
+          "product_id": "0062840339",
+          "title": "Let Me Hear a Rhyme",
+          "label": null
+        },
+        {
+          "product_id": "B07JYYHV5L",
+          "title": "Comfort My Dog",
+          "label": null
+        },
+        {
+          "product_id": "0553275747",
+          "title": "Peace Breaks Out",
+          "label": null
+        },
+        {
+          "product_id": "B08W7M3RHL",
+          "title": "OPI Nail Lacquer, Let's Be Friends, Pink Nail Polish, Hello Kitty 2021 Collection, 0.5 fl oz",
+          "label": "E"
+        },
+        {
+          "product_id": "B01LZNOAP8",
+          "title": "OXO Airtight Pet POP Small Jar",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 108075,
+      "query": "veganise mayonnaise",
+      "ndcg@10": 0.6588384764235892,
+      "recall_exact@10": 1.0,
+      "exact_in_top10": 3,
+      "judged_in_top10": 10,
+      "top10": [
+        {
+          "product_id": "B07SL58JRR",
+          "title": "Thrive Market Non-GMO Vegan Mayonnaise",
+          "label": "S"
+        },
+        {
+          "product_id": "B07FHL8RD2",
+          "title": "VMayo | 190ml | Chilli Mash Company | British Made Vegan Mayonnaise",
+          "label": "S"
+        },
+        {
+          "product_id": "B07QRX7VYL",
+          "title": "Follow Your Heart Egg Free, Non-GMO, Original Vegenaise Vegan Mayo (16 ounce Pack of 6)",
+          "label": "E"
+        },
+        {
+          "product_id": "B01EYRIFRE",
+          "title": "FOLLOW YOUR HEART Soy Free Vegenaise, 16 FZ",
+          "label": "E"
+        },
+        {
+          "product_id": "B00OVN2F64",
+          "title": "Hampton Creek Just Mayo Vegan Eggless Soy-Free Kosher Mayonnaise - Pack of 2",
+          "label": "S"
+        },
+        {
+          "product_id": "B01B7LB4GO",
+          "title": "Best Foods Vegan Dressing and Spread for a Rich, Creamy Plant-Based Alternative to Mayo Plant-Based Mayonnaise Free From Eggs 24 Oz",
+          "label": "S"
+        },
+        {
+          "product_id": "B0798DVNBL",
+          "title": "Hellmann's Vegan Dressing and Spread for A Rich, Creamy Plant-Based Alternative to Mayonnaise Vegan Dressing and Spread Plant Based Alternative to Mayo Free From Eggs 24 oz",
+          "label": "S"
+        },
+        {
+          "product_id": "B06XXQVVBJ",
+          "title": "Kraft Mayo with Avocado Oil Reduced Fat Mayonnaise (30 fl oz Jar)",
+          "label": "S"
+        },
+        {
+          "product_id": "B07PPCQB7K",
+          "title": "Follow Your Heart Non-GMO Vegenaise Soy Free Better Than Mayo Dressing, 32 Ounce (Pack of 6)",
+          "label": "E"
+        },
+        {
+          "product_id": "B08129JPYC",
+          "title": "Sir Kensington's Vegan Mayo Classic Keto Diet Certified Gluten Free Certified Vegan Soy Free Non- GMO Project Verified Shelf-Stable 12 oz",
+          "label": "S"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 101719,
+      "query": "thackeray greek grammar",
+      "ndcg@10": 0.47557011408718985,
+      "recall_exact@10": 0.5,
+      "exact_in_top10": 3,
+      "judged_in_top10": 10,
+      "top10": [
+        {
+          "product_id": "B002MZNJ36",
+          "title": "Grammar of New Testament Greek ... Translated by Henry St. John Thackeray",
+          "label": "S"
+        },
+        {
+          "product_id": "B002MZPL2I",
+          "title": "Grammar of New Testament Greek / by Friedrich Blass ; translated by Henry St. John Thackeray",
+          "label": "E"
+        },
+        {
+          "product_id": "0310287685",
+          "title": "Basics of Biblical Greek Grammar",
+          "label": "S"
+        },
+        {
+          "product_id": "0195218515",
+          "title": "Oxford Grammar of Classical Greek",
+          "label": "S"
+        },
+        {
+          "product_id": "B00B2HLPEU",
+          "title": "Grammar of New Testament Greek",
+          "label": "E"
+        },
+        {
+          "product_id": "0521698529",
+          "title": "Reading Greek: Grammar and Exercises",
+          "label": "S"
+        },
+        {
+          "product_id": "1614275238",
+          "title": "Greek Grammar [Revised Edition]",
+          "label": "S"
+        },
+        {
+          "product_id": "B003AA1KFG",
+          "title": "A grammar of the Old Testament in Greek ; vol. 1 : introduction, orthography and accidence",
+          "label": "S"
+        },
+        {
+          "product_id": "B00GUBO9GY",
+          "title": "Essential Modern Greek Grammar (Dover Language Guides Essential Grammar)",
+          "label": "S"
+        },
+        {
+          "product_id": "0342655973",
+          "title": "A Grammar of the Old Testament in Greek According to the Septuagint; Volume 1",
+          "label": "E"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 114182,
+      "query": "x shot",
+      "ndcg@10": 0.3904056803061687,
+      "recall_exact@10": 0.38461538461538464,
+      "exact_in_top10": 5,
+      "judged_in_top10": 6,
+      "top10": [
+        {
+          "product_id": "B07Z5DGS97",
+          "title": "Zuru X-Shot 50 Dart Refill Pack",
+          "label": "C"
+        },
+        {
+          "product_id": "B06VXZ88BP",
+          "title": "Pilot",
+          "label": null
+        },
+        {
+          "product_id": "B0026Q4OPI",
+          "title": "Pilot",
+          "label": null
+        },
+        {
+          "product_id": "B07FDMVGPY",
+          "title": "XShot X-Shot-Excel-Xcess TK-12(12Darts) by Zuru",
+          "label": "E"
+        },
+        {
+          "product_id": "B07RYPMC61",
+          "title": "XShot Excel Hawk Eye Foam Dart Blaster with 5 Shooting Targets & 12 Darts by ZURU (Frustration Free Packaging)",
+          "label": "E"
+        },
+        {
+          "product_id": "B07FDNQ7GK",
+          "title": "XShot Excel Turbo Fire Foam Dart Blaster with Slam-Fire Function + 48 Darts by Zuru",
+          "label": "E"
+        },
+        {
+          "product_id": "B01BYDUZ60",
+          "title": "ATN X-Sight II HD 5-20 Smart Day/Night Rifle Scope w/1080p Video, Ballistic Calculator, Rangefinder, WiFi, E-Compass, GPS, Barometer, IOS & Android Apps",
+          "label": null
+        },
+        {
+          "product_id": "B01MCW1NI2",
+          "title": "Sony RX100 VA 20.1 MP Cyber-Shot Digital Camera w/ 3\" OLED DSC-RX100M5A + 64GB SDXC Memory Dual Battery Kit + Accessory Bundle",
+          "label": null
+        },
+        {
+          "product_id": "B07MWVJ2YS",
+          "title": "X-Shot Laser360° Double Laser Blaster Pack (2 Laser Blasters, 2 Goggles) by ZURU",
+          "label": "E"
+        },
+        {
+          "product_id": "B07ZTPNR94",
+          "title": "XShot MK3 Dart Blaster + 12 Long Range Soft Darts - Blasts Up to 80 Feet!",
+          "label": "E"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 36265,
+      "query": "e katerina",
+      "ndcg@10": 0.04172825881066165,
+      "recall_exact@10": 0.0,
+      "exact_in_top10": 0,
+      "judged_in_top10": 2,
+      "top10": [
+        {
+          "product_id": "B086H7WNMS",
+          "title": "Young Catherine",
+          "label": "S"
+        },
+        {
+          "product_id": "B001AWDF18",
+          "title": "Selena",
+          "label": null
+        },
+        {
+          "product_id": "B08122QT2M",
+          "title": "1",
+          "label": null
+        },
+        {
+          "product_id": "0345408772",
+          "title": "Catherine the Great: Portrait of a Woman",
+          "label": "S"
+        },
+        {
+          "product_id": "B08FF7ZN65",
+          "title": "Carte Blanche",
+          "label": null
+        },
+        {
+          "product_id": "B018FURRUW",
+          "title": "I Saw Her Standing There",
+          "label": null
+        },
+        {
+          "product_id": "B07XGDYVJT",
+          "title": "Set in Stone",
+          "label": null
+        },
+        {
+          "product_id": "B06VXZ88BP",
+          "title": "Pilot",
+          "label": null
+        },
+        {
+          "product_id": "B0026Q4OPI",
+          "title": "Pilot",
+          "label": null
+        },
+        {
+          "product_id": "B07DLP8KH4",
+          "title": "Know.",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 35391,
+      "query": "dreamville & earthgang & j. cole",
+      "ndcg@10": 0.46474716285608947,
+      "recall_exact@10": 0.3,
+      "exact_in_top10": 3,
+      "judged_in_top10": 4,
+      "top10": [
+        {
+          "product_id": "B07V5RXKFY",
+          "title": "Down Bad [Clean] [feat. JID & Bas & J. Cole & EARTHGANG & Young Nudy]",
+          "label": "E"
+        },
+        {
+          "product_id": "B083XSF2NM",
+          "title": "Down Bad [Clean] [feat. JID & Bas & J. Cole & EARTHGANG & Young Nudy]",
+          "label": "E"
+        },
+        {
+          "product_id": "B07SX6198G",
+          "title": "Down Bad [feat. JID & Bas & J. Cole & EARTHGANG & Young Nudy] [Explicit]",
+          "label": "S"
+        },
+        {
+          "product_id": "B083T9YFHG",
+          "title": "Down Bad [feat. JID & Bas & J. Cole & EARTHGANG & Young Nudy] [Explicit]",
+          "label": "E"
+        },
+        {
+          "product_id": "B014R1UCYG",
+          "title": "Barbie & The Diamond Castle",
+          "label": null
+        },
+        {
+          "product_id": "B0062GNKVC",
+          "title": "J Cole (Mixtape) Return of Simba",
+          "label": null
+        },
+        {
+          "product_id": "B009K5UMYA",
+          "title": "Drums Along the Mohawk",
+          "label": null
+        },
+        {
+          "product_id": "B07JYYHV5L",
+          "title": "Comfort My Dog",
+          "label": null
+        },
+        {
+          "product_id": "1581172796",
+          "title": "Good Morning, Good Night!",
+          "label": null
+        },
+        {
+          "product_id": "0374537917",
+          "title": "Moonbound: Apollo 11 and the Dream of Spaceflight",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 90935,
+      "query": "school pageant dresses for 16 year olds",
+      "ndcg@10": 0.4740502868455471,
+      "recall_exact@10": 0.5714285714285714,
+      "exact_in_top10": 4,
+      "judged_in_top10": 9,
+      "top10": [
+        {
+          "product_id": "B01N18VVW5",
+          "title": "Fancy Girls Pageant Light Blue Dresses 0-12 Year Old L Size 6",
+          "label": null
+        },
+        {
+          "product_id": "B07SVY61R9",
+          "title": "Girls Dresses Girl Lace Casual Dress for Christmas Party Pageant Bridesmaid Church Girls Dresses 7-16 Vintage Long Sleeve Formal Dresses for Girls (Size 14-16 Years)=LS Navy Blue-190",
+          "label": "I"
+        },
+        {
+          "product_id": "B077HCY9W6",
+          "title": "Girls Sleeveless Embroidery Princess Long Pageant Dress Floor Length Lace Tulle First Communion Wedding Birthday Party A Line Dresses Kids Holiday Formal Prom Dance Evening Ball Gown Red 16-17",
+          "label": "E"
+        },
+        {
+          "product_id": "B07DBM52BG",
+          "title": "Little Big Girls’Tulle Retro Vintage Dresses Flower Lace Pageant Party Wedding Floor Length Dance Evening Gown White #1 15-16 Years",
+          "label": "E"
+        },
+        {
+          "product_id": "B07P6PWP1X",
+          "title": "Bow Dream Flower Girl's Dress Chiffon V-Neckline Pageant Birthday Party School Dancewear Bridesmaid Dress Peacock Blue 16",
+          "label": "E"
+        },
+        {
+          "product_id": "B07SMMYZ1M",
+          "title": "Flower Girl Lace Dress for Kids Wedding Bridesmaid Pageant Party Prom Formal Ball Gown Princess Puffy Tulle Dresses Royal Blue size 14-15 Years",
+          "label": "E"
+        },
+        {
+          "product_id": "B07C9YX5F9",
+          "title": "DOCHEER aibeiboutique Flower Girl Dresses Pageant Princess Bridesmaid Dress for Wedding First Communion (15-16 Years, Pink)",
+          "label": "S"
+        },
+        {
+          "product_id": "B07NRH7MF1",
+          "title": "Little Big Girl Ruffles Lace Vintage Sleeveless Embroidery Princess Dress Tulle Flower Pageant Wedding Long Prom Dance Evening Ball Gowns Purple 15-16 Years",
+          "label": "S"
+        },
+        {
+          "product_id": "B07L8ZGRXS",
+          "title": "TTYAOVO Girls Embroidered Princess Pageant Ball Gowns Wedding Party Dress Size 11-12 Years Peach",
+          "label": "I"
+        },
+        {
+          "product_id": "B07B6QCDQ8",
+          "title": "Flower Girls Tulle Lace Bridesmaid Dress School Girls Communion Ball Gowns Pageant Birthday Party Wedding Evening Dress Turquoise 15-16",
+          "label": "S"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 102507,
+      "query": "the witcher soundtrack",
+      "ndcg@10": 0.914856882358379,
+      "recall_exact@10": 0.9,
+      "exact_in_top10": 9,
+      "judged_in_top10": 10,
+      "top10": [
+        {
+          "product_id": "B07RLP14M2",
+          "title": "The Witcher (Original Game Soundtrack)",
+          "label": "E"
+        },
+        {
+          "product_id": "B083Y67D81",
+          "title": "The Witcher (Music from the Netflix Original Series)",
+          "label": "E"
+        },
+        {
+          "product_id": "B07SVF4PH5",
+          "title": "The Witcher 3: Wild Hunt (Original Game Soundtrack)",
+          "label": "E"
+        },
+        {
+          "product_id": "B07RRF8XKM",
+          "title": "The Witcher 3: Wild Hunt - Blood and Wine (Official Soundtrack)",
+          "label": "E"
+        },
+        {
+          "product_id": "B082V8V4KF",
+          "title": "The Witcher Theme (Piano Solo) [Original Series Soundtrack]",
+          "label": "I"
+        },
+        {
+          "product_id": "B07RDMM4QW",
+          "title": "The Witcher 2: Assassins Of Kings (Enhanced Edition) (Original Game Soundtrack)",
+          "label": "E"
+        },
+        {
+          "product_id": "B07RJYBJ8J",
+          "title": "The Witcher 3: Wild Hunt - Hearts Of Stone (Original Game Soundtrack)",
+          "label": "E"
+        },
+        {
+          "product_id": "B00FAQI0F6",
+          "title": "The Witcher",
+          "label": "E"
+        },
+        {
+          "product_id": "B01M4PC1OB",
+          "title": "Witcher",
+          "label": "E"
+        },
+        {
+          "product_id": "B079PTJGCX",
+          "title": "Witcher",
+          "label": "E"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 30906,
+      "query": "cusinart coffee grinder burr",
+      "ndcg@10": 0.8528438345094291,
+      "recall_exact@10": 1.0,
+      "exact_in_top10": 3,
+      "judged_in_top10": 10,
+      "top10": [
+        {
+          "product_id": "B00004S9CX",
+          "title": "Cuisinart Coffee Bar Coffee Grinder, White",
+          "label": "E"
+        },
+        {
+          "product_id": "B0000A1ZN7",
+          "title": "Cuisinart Grind Central Coffee Grinder",
+          "label": "S"
+        },
+        {
+          "product_id": "B07CSKGLMM",
+          "title": "OXO Brew Conical Burr Coffee Grinder",
+          "label": "S"
+        },
+        {
+          "product_id": "B007F183LK",
+          "title": "Baratza Encore Conical Burr Coffee Grinder",
+          "label": "S"
+        },
+        {
+          "product_id": "B00018RRRK",
+          "title": "Cuisinart DBM-8 Supreme Grind Automatic Burr Mill",
+          "label": "E"
+        },
+        {
+          "product_id": "B00TZTSTN2",
+          "title": "Cuisinart Supreme Grind Burr Mill-brushed Chrome",
+          "label": "E"
+        },
+        {
+          "product_id": "B0833F31MS",
+          "title": "Mueller Ultra-Grind Conical Burr Grinder Professional Series, Innovative Detachable PowderBlock Grinding Chamber for Easy Cleaning and 40mm Hardened Gears for Long Life",
+          "label": "S"
+        },
+        {
+          "product_id": "B0043095WW",
+          "title": "Bodum Bistro Burr Coffee Grinder, 1 EA, Black",
+          "label": "S"
+        },
+        {
+          "product_id": "B07Q622YLB",
+          "title": "KRUPS Precision Grinder Flat Burr Coffee for Drip/Espresso/PourOver/ColdBrew, 12 Cup, Black",
+          "label": "S"
+        },
+        {
+          "product_id": "B004T6EJS0",
+          "title": "Mr. Coffee Automatic Burr Mill Coffee Grinder with 18 Custom Grinders, Silver",
+          "label": "S"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 6624,
+      "query": "adhesive towel bar 3m",
+      "ndcg@10": 0.6718528502054367,
+      "recall_exact@10": 0.75,
+      "exact_in_top10": 6,
+      "judged_in_top10": 10,
+      "top10": [
+        {
+          "product_id": "B07THX72LN",
+          "title": "SUNTECH Hand Towel Holder/ Towel Ring - Self Adhesive Towel Bar for Kitchen and Bathroom No Drilling",
+          "label": "S"
+        },
+        {
+          "product_id": "B07MFJBHFH",
+          "title": "Brushed Nickel 3M Towel Bar Holder with Hook Hanger, No Drill Self Adhesive Hand Towel Bar Holder, Modern Bathroom Kitchen 304 Stainless Steel Towel Bar Holder Rack, 13.5-Inch, Not Wall Mount",
+          "label": "E"
+        },
+        {
+          "product_id": "B07Q1ZCW5D",
+          "title": "M V VOIMAKAS Self Adhesive Towel Rack Set for Bathroom, 3M 304 Stainless Steel Brushed Nickel Kitchen Towel Bar for Washroom Glass Ceramic Tile Wall Mounted 15.7in",
+          "label": "E"
+        },
+        {
+          "product_id": "B01D4O4TW8",
+          "title": "Taozun Towel Bar Self Adhesive 21.65-Inch Bathroom Brushed SUS 304 Stainless Steel Bath Wall Shelf Rack Hanging Towel Stick On Sticky Hanger Contemporary Style",
+          "label": "S"
+        },
+        {
+          "product_id": "B01D4O4TVY",
+          "title": "Taozun Towel Bar Self Adhesive 27.55-Inch Bathroom Brushed SUS 304 Stainless Steel Bath Wall Shelf Rack Hanging Towel Stick On Sticky Hanger Contemporary Style",
+          "label": "E"
+        },
+        {
+          "product_id": "B01D4O4TZA",
+          "title": "Taozun Self Adhesive 16-Inch Bathroom Towel Bar Brushed SUS 304 Stainless Steel Bath Wall Shelf Rack Hanging Towel Stick On Sticky Hanger Contemporary Style",
+          "label": "E"
+        },
+        {
+          "product_id": "B01MXWM34F",
+          "title": "KES Adhesive Towel Bar, No Drill Towel Bar, Stick on Towel Rack for Kitchen SUS304 Stainless Steel Brushed 9-Inch, A7000S23-2",
+          "label": "S"
+        },
+        {
+          "product_id": "B0794CDMSK",
+          "title": "mDesign Metal Bathroom Storage Towel Bar with Strong Self Adhesive - Holder Rack for Hanging Washcloths, Hand, Face Towels in Main or Guest Powder Rooms - 2 Pack - Brushed",
+          "label": "E"
+        },
+        {
+          "product_id": "B01KOMLZAM",
+          "title": "Ulifestar SUS304 Stainless Steel Towel Bar for Bathroom, Strong 3M Self Adhesive Hand Towel Bar Heavy Duty Wall Mount Towel Rack RV Towel Holder Brushed Nickel,16''",
+          "label": "E"
+        },
+        {
+          "product_id": "B07F3SGTKK",
+          "title": "Songtec Bathroom Towel Bar 16-inch, No Drill Stick On Towel Rack, Easy Install with Self-Adhesive, Premium SUS304 Stainless Steel - Brushed Nickle",
+          "label": "S"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 114956,
+      "query": "yeti cooler sticker",
+      "ndcg@10": 0.6694348970731675,
+      "recall_exact@10": 0.5714285714285714,
+      "exact_in_top10": 4,
+      "judged_in_top10": 7,
+      "top10": [
+        {
+          "product_id": "B07RQFWWD7",
+          "title": "JR Studio 4x4 inch Round No YETI Sticker -2nd Boycott Don't Buy yeti Cooler Bumper NRA Gun Vinyl Decal Sticker Car Waterproof Car Decal Bumper Sticker",
+          "label": "E"
+        },
+        {
+          "product_id": "B01GQBCIB0",
+          "title": "Auto - Sticker - Decal - Yeti - Cooler - Hunting - Fishing - Removable - (White) (5 inch) - Vinyl Sticker Decal For Car Truck SUV Window Wall Motorcycle Helmet Macbook Laptop (White9)",
+          "label": "E"
+        },
+        {
+          "product_id": "B01N29ITV0",
+          "title": "Yeti Sticker Abominable Snow Monster Shaped Die-Cut Decal Folklore Creature Legend I Believe Hunting Searching for Snowman for Water Bottle Decal",
+          "label": "S"
+        },
+        {
+          "product_id": "B01BCL2OOK",
+          "title": "MightySkins (Cooler Not Included) Skin Compatible With Yeti Roadie 20 Qt Cooler Wrap Cover Sticker Skins Black Diamond Plate",
+          "label": "E"
+        },
+        {
+          "product_id": "B07JRC17PV",
+          "title": "Cool Cow Vinyl Sticker Decal Laptop Car Bumper Sticker Travel Luggage Car iPad Sign Fun 5\"",
+          "label": null
+        },
+        {
+          "product_id": "B01MQT4GG7",
+          "title": "Beer Cooler Warning Sticker Funny Caution Attention Drink Drinking Party Vinyl Decal",
+          "label": "S"
+        },
+        {
+          "product_id": "B01MQDHQJJ",
+          "title": "Here's to Nipples , Awesome Decal ! All of our stickers and decals can be made Yeti cup size to at least back glass vehicle size , just message us and we will make you a listing on Amazon",
+          "label": "S"
+        },
+        {
+          "product_id": "B07RPQTJCC",
+          "title": "CarTats Duck Vinyl Decal Mallard Teal Compatible with Yeti Hunting Hunter Window Laptop Bumper Sticker Door Toolbox Choose Size and Color (5x2, White)",
+          "label": "E"
+        },
+        {
+          "product_id": "B093LP6QNK",
+          "title": "Custom Vinyl Lettering - Custom Vinyl Sticker - Car Window, Boat, Yeti Lettering JDM Automotive Windshield Graphic Name Letter Auto Vehicle Door Banner Sign Personalized Decal",
+          "label": null
+        },
+        {
+          "product_id": "B07P8L27Z9",
+          "title": "Stickers",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 56649,
+      "query": "juniors panties",
+      "ndcg@10": 0.0,
+      "recall_exact@10": 0.0,
+      "exact_in_top10": 0,
+      "judged_in_top10": 2,
+      "top10": [
+        {
+          "product_id": "B01JMK8R8U",
+          "title": "Wax Women's Juniors Body Flattering Mid Rise Skinny Jeans, Dark Denim, 1",
+          "label": null
+        },
+        {
+          "product_id": "B078HDPJ37",
+          "title": "Emprella Slip Shorts 3-Pack Black Bike Shorts Cotton Spandex Stretch Boyshorts For Yoga,Black,Large",
+          "label": null
+        },
+        {
+          "product_id": "B07THQSKY8",
+          "title": "Zaxicht High Waisted Jeans Shorts for Women Teen Girls, Casual Skinny Denim Shorts Stretchy Tassel Short Pants Solid Color (Light Blue, XXXL)",
+          "label": null
+        },
+        {
+          "product_id": "B01GTGOIK6",
+          "title": "Nike Kids Sport Essentials Printed Leggings Little Kids Dark Grey Heather Girls Casual Pants",
+          "label": null
+        },
+        {
+          "product_id": "B07SZ39R8C",
+          "title": "Champion Boys Sweatpant Heritage Collection Slim Fit Brushed Fleece Big and Little Boys Kids (Small, Granite Heather Script)",
+          "label": null
+        },
+        {
+          "product_id": "B086XJKNQW",
+          "title": "Pajamagram Teen Girls Pajamas - Girls Pajamas, Aqua Stars, 14",
+          "label": null
+        },
+        {
+          "product_id": "B09C1WDR8L",
+          "title": "SMALNNIE Womens Workout Pants Loose Fit Soft Sweatpants Lightweight Track Pants 2XL",
+          "label": null
+        },
+        {
+          "product_id": "B077V26MKM",
+          "title": "Emprella Womens Lace Underwear Hipster Panties Cotton/Spandex - 10 Pack Colors and Patterns May Vary, Assorted, Large",
+          "label": "I"
+        },
+        {
+          "product_id": "B07QB4MTFC",
+          "title": "Reebok Women's Underwear - Seamless Hipster Briefs (5 Pack) (X-Large, Black Spacedye/Rose/Black/Light Pink/Charcoal)",
+          "label": "I"
+        },
+        {
+          "product_id": "B077QM3PS5",
+          "title": "Leggings Depot Women's Cotton Blend Stretch Pull-on Jeggings with Pockets-J04-1004PLUS-MOCHA-2X3X",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 76374,
+      "query": "osprey air battles",
+      "ndcg@10": 0.4795805764743623,
+      "recall_exact@10": 0.3333333333333333,
+      "exact_in_top10": 5,
+      "judged_in_top10": 6,
+      "top10": [
+        {
+          "product_id": "B0063NS4BA",
+          "title": "Air Buddies",
+          "label": null
+        },
+        {
+          "product_id": "1855327279",
+          "title": "Imperial Japanese Navy Aces 1937-45 (Osprey Aircraft of the Aces 22)",
+          "label": "E"
+        },
+        {
+          "product_id": "1472835220",
+          "title": "Battle of Berlin 1943–44: Bomber Harris' gamble to end the war (Air Campaign)",
+          "label": "E"
+        },
+        {
+          "product_id": "0692133429",
+          "title": "The Osprey and the Sea Wolf: The Battle of the Atlantic 1942",
+          "label": "S"
+        },
+        {
+          "product_id": "1546059490",
+          "title": "Our Fight for America: The War Continues",
+          "label": null
+        },
+        {
+          "product_id": "B07Z1FQHXD",
+          "title": "MiG Alley: The US Air Force in Korea, 1950–53",
+          "label": "E"
+        },
+        {
+          "product_id": "1472820606",
+          "title": "Malta 1940–42: The Axis' air battle for Mediterranean supremacy (Air Campaign)",
+          "label": "E"
+        },
+        {
+          "product_id": "147283867X",
+          "title": "Schweinfurt–Regensburg 1943: Eighth Air Force’s costly early daylight battles (Air Campaign)",
+          "label": "E"
+        },
+        {
+          "product_id": "B01LZNOAP8",
+          "title": "OXO Airtight Pet POP Small Jar",
+          "label": null
+        },
+        {
+          "product_id": "0553275747",
+          "title": "Peace Breaks Out",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 45645,
+      "query": "girls pants with owls on them",
+      "ndcg@10": 0.16716045496620227,
+      "recall_exact@10": 0.3333333333333333,
+      "exact_in_top10": 1,
+      "judged_in_top10": 1,
+      "top10": [
+        {
+          "product_id": "B01GYAUOBO",
+          "title": "BERON 14 Inches Women Girls Short Curly Synthetic Wig with Bangs Lovely Pink",
+          "label": null
+        },
+        {
+          "product_id": "B085PVCBRQ",
+          "title": "2Pcs Toddler Kids Girl Bowknot Strap Tube Crop Top + High Waist Floral Wide Leg Pants Summer Outfits (Sunflower, 1-2 Years)",
+          "label": null
+        },
+        {
+          "product_id": "B086XJKNQW",
+          "title": "Pajamagram Teen Girls Pajamas - Girls Pajamas, Aqua Stars, 14",
+          "label": null
+        },
+        {
+          "product_id": "B00JSJOPGY",
+          "title": "Leg Avenue Cozy Bat Fleece Dress with Wing Sleeves-Cute Hooded Onesie with Ears for Women, Small",
+          "label": null
+        },
+        {
+          "product_id": "B09F3CBMRV",
+          "title": "Sexy Lingerie for Women for Sex Naughty Women Lingerie Teddy Babydoll Lingerie for Womens Exotic Cute Lingerie Set",
+          "label": null
+        },
+        {
+          "product_id": "B06ZYWTQQH",
+          "title": "Lazy One Warm Long-Sleeve PJ Sets for Girls and Boys, Funny Animal Kids' Pajama Sets, Cozy, Comfy, Owl (Hoo's Awake, 6)",
+          "label": "E"
+        },
+        {
+          "product_id": "B00SIKQL8E",
+          "title": "Wennikids Baby-Girls Denim Fancy Flare Pants Double Ruffles Pants 6m-8t 2T",
+          "label": null
+        },
+        {
+          "product_id": "B09C1WDR8L",
+          "title": "SMALNNIE Womens Workout Pants Loose Fit Soft Sweatpants Lightweight Track Pants 2XL",
+          "label": null
+        },
+        {
+          "product_id": "B07GDCVQ8N",
+          "title": "DIDK Women's Cute Cartoon Print Tee and Pants Pajama Set Kitty Black Medium",
+          "label": null
+        },
+        {
+          "product_id": "B07V9HZF3C",
+          "title": "Ekouaer Women Lounge Pants Comfy Pajama Bottom with Pockets Stretch Plaid Sleepwear Drawstring Pj Bottoms Pants",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 75449,
+      "query": "olive green throw pillow",
+      "ndcg@10": 0.6975741070469482,
+      "recall_exact@10": 0.5454545454545454,
+      "exact_in_top10": 6,
+      "judged_in_top10": 7,
+      "top10": [
+        {
+          "product_id": "B07JKJSM2S",
+          "title": "Amazon Brand – Stone & Beam Modern Striped Throw Pillow - 18 x 18 Inch, Olive Multi",
+          "label": "E"
+        },
+        {
+          "product_id": "B088R2MKW2",
+          "title": "Glory Season Velvet Throw Pillow Cover Soft Decorative Luxurious Solid Square Cushion Case for Sofa Couch Bedroom Farmhouse,Pack of 2, 18 x 18 Inches, Olive Green",
+          "label": "E"
+        },
+        {
+          "product_id": "B07X6LG6NH",
+          "title": "MERNETTE Pack of 2, Corduroy Soft Decorative Square Throw Pillow Cover Cushion Covers Pillowcase, Home Decor Decorations for Sofa Couch Bed Chair 18x18 Inch/45x45 cm (Granules Olive Green)",
+          "label": "E"
+        },
+        {
+          "product_id": "B089YFTPGG",
+          "title": "Cassiel Home Velvet Round Throw Pillow Green Summer Pleated Plush Pillow on Couch Pintuck Decorative Floor Cushion for Living Room Bedroom 14.5 inches",
+          "label": "E"
+        },
+        {
+          "product_id": "B07R65DYGR",
+          "title": "Hodeco Decorative Throw Pillow Covers 18x18 Tropical Green Leaves Embroidery Floor Pillow Cover for Couch 100% Cotton Cushion Cover Pillow Case Plant Monstera Leaf Loop Embroidered 45x45cm, 1 Piece",
+          "label": null
+        },
+        {
+          "product_id": "B07SFFPH52",
+          "title": "Decorative Pillow Cases 12x20 Light-Grey: 2 Pack Cozy Soft Velvet Rectangular Throw Pillow Covers for Farmhouse Home Decor, DEZENE",
+          "label": null
+        },
+        {
+          "product_id": "B07XYSB3HY",
+          "title": "MERNETTE New Year/Christmas Decorations Corduroy Soft Decorative Square Throw Pillow Cover Cushion Covers Pillowcase, Home Decor for Party/Xmas 18x18 Inch/45x45 cm, Olive Green, Set of 2",
+          "label": "C"
+        },
+        {
+          "product_id": "B071P2BPYM",
+          "title": "KINGROSE Decorative Handmade 3D Floral Decorative Throw Pillow Case Wool Cushion Covers for Sofa Couch Chair 12 x 20 Inches Green",
+          "label": "E"
+        },
+        {
+          "product_id": "B089CW3VDW",
+          "title": "DEZENE 18x18 Throw Pillow Cases: 2 Pack Boho Striped Cotton Linen Square Decorative Pillow Covers with Tassels for Farmhouse Couch Sofa Chair, Ivory White",
+          "label": null
+        },
+        {
+          "product_id": "B076PYMHLD",
+          "title": "Phantoscope Pack of 2 Velvet Decorative Throw Pillow Covers Soft Solid Square Cushion Case for Couch Green 18 x 18 inches 45 x 45 cm",
+          "label": "E"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 26375,
+      "query": "circa watches",
+      "ndcg@10": 0.6014549016023014,
+      "recall_exact@10": 0.5,
+      "exact_in_top10": 5,
+      "judged_in_top10": 7,
+      "top10": [
+        {
+          "product_id": "B007X0SU3Y",
+          "title": "Movado Men's 0606576 Circa Stainless Steel Watch With Brown Leather Band",
+          "label": "E"
+        },
+        {
+          "product_id": "B0177GUBBC",
+          "title": "Ferrari Men's 0830310 XX KERS Analog Display Japanese Quartz Black Watch",
+          "label": null
+        },
+        {
+          "product_id": "B08PQ66LX8",
+          "title": "Rip Curl A1171G-4029 Circa Tide Men's Watch Black 42mm Stainless Steel",
+          "label": "E"
+        },
+        {
+          "product_id": "B00JSM3PSK",
+          "title": "Movado Men's 0606803 Movado Circa Stainless Steel Watch with Mesh Band",
+          "label": "E"
+        },
+        {
+          "product_id": "B00P6TSNE0",
+          "title": "Circa CT129T Timepiece 1940s Doctors Watch Unisex Goldtone Brown Band",
+          "label": "E"
+        },
+        {
+          "product_id": "B07BKD2948",
+          "title": "Movado Men's Circa Swiss-Quartz Watch with Gold-Plated-Stainless-Steel Strap, Yellow, 21 (Model: 0607080)",
+          "label": "E"
+        },
+        {
+          "product_id": "B00093540E",
+          "title": "Timex Boys T78141 Time Machines Green Camo Elastic Fabric Strap Watch",
+          "label": null
+        },
+        {
+          "product_id": "B06VWBS7DL",
+          "title": "Casio Men's G Shock Quartz Watch with Resin Strap, White, 25.8 (Model: GA-700-7ACR)",
+          "label": null
+        },
+        {
+          "product_id": "B008UVVL9K",
+          "title": "Peugeot Vintage Contoured Doctors Style Watch with Leather Band",
+          "label": "S"
+        },
+        {
+          "product_id": "B00UMD8ICW",
+          "title": "Citizen Eco-Drive Corso Quartz Men's Watch, Stainless Steel, Classic, Silver-Tone (Model: AT2141-52L)",
+          "label": "S"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 53062,
+      "query": "indominus rex",
+      "ndcg@10": 0.8214479940837552,
+      "recall_exact@10": 1.0,
+      "exact_in_top10": 7,
+      "judged_in_top10": 10,
+      "top10": [
+        {
+          "product_id": "B01MQVQFIZ",
+          "title": "Clip: Indominus Rex",
+          "label": "S"
+        },
+        {
+          "product_id": "B07NQFWZM6",
+          "title": "JURASSIC WORLD DESTROY 'N DEVOUR INDOMINUS REX",
+          "label": "E"
+        },
+        {
+          "product_id": "B08888HHV2",
+          "title": "JAOCDOEN Plastic Jurassic Indominus Rex Action Figures Open Mouth Dinosaur World Animals Model Kid Toy Gift",
+          "label": "E"
+        },
+        {
+          "product_id": "B082Z6VBHP",
+          "title": "Large White Jurassic T-Rex Dinosaur Toys Building Blocks Indominus Figure for Boys and Girls Ages 3+ - Educational Jurassic Dino Toys - Great TREX with Dinosaurio Sticker Sheet Included!",
+          "label": "E"
+        },
+        {
+          "product_id": "B07Y5XZHPB",
+          "title": "Jurassic World Camp Cretaceous Feeding Frenzy Indominus Rex Interactive Dinosaur, Bite Reflex, Toy Ribs, Lights & Sounds, Authentic Detail, Ages 4 Years Old & Up [Amazon Exclusive]",
+          "label": "E"
+        },
+        {
+          "product_id": "B07VT3JB1T",
+          "title": "Set of 2 Large T-Rex Jurassic Indominus Dinosaur Toys Building Blocks for Boys and Girls - 11.2x6.7 Black & White - Includes Dino Toys Sticker Sheet & Bag - Safe ABS Plastic Jurassic Trex Gift Combo!",
+          "label": "S"
+        },
+        {
+          "product_id": "B087QGRLNC",
+          "title": "SAMTITY Realistic Plastic Jurassic Indominus Rex, Action Figures Open Mouth Dinosaur, Animals World Model for Kids Boys and Toddlers",
+          "label": "E"
+        },
+        {
+          "product_id": "B087PH5RDN",
+          "title": "Large Dinosaur Toy Indominus Rex, Realistic Dinosaur Action Figure D-Rex with Moveable Mouth, Educational Prehistoric Animal Model Figurine Tyrannosaurus Rex for Collector Home Decoration Party Favor",
+          "label": "E"
+        },
+        {
+          "product_id": "B086ZKP2MN",
+          "title": "zuoshini Dinosaurs Animals Figures Wildlife Animals Animal Model Plastic Jurassic Indominus Rex Action Figures Open Mouth Dinosaur World Animals Model Kid Gift",
+          "label": "E"
+        },
+        {
+          "product_id": "B076FKCFQH",
+          "title": "Jurassic World Indoraptor Dinosaur [Amazon Exclusive]",
+          "label": "S"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 61150,
+      "query": "leg length jackets for women",
+      "ndcg@10": 0.0,
+      "recall_exact@10": 0.0,
+      "exact_in_top10": 0,
+      "judged_in_top10": 2,
+      "top10": [
+        {
+          "product_id": "B07RDD6S4Y",
+          "title": "Women Leather Belts Ladies Vintage Western Design Black Waist Belt for Pants Jeans Dresses (Suit Waist Size 45-50 Inches,Black)",
+          "label": null
+        },
+        {
+          "product_id": "B077QM3PS5",
+          "title": "Leggings Depot Women's Cotton Blend Stretch Pull-on Jeggings with Pockets-J04-1004PLUS-MOCHA-2X3X",
+          "label": null
+        },
+        {
+          "product_id": "B00V854UMA",
+          "title": "Lee Women's Relaxed Fit All Day Straight Leg Pant, Flax, 10 Long",
+          "label": "I"
+        },
+        {
+          "product_id": "B00C5KFWN8",
+          "title": "Jag Jeans Women's Peri Pull On Straight Leg Jean, After Midnight, 8",
+          "label": "I"
+        },
+        {
+          "product_id": "B08F3CYRR4",
+          "title": "LOGENE Women's Tie Dye Print Pajamas Set Long Sleeve Tops with Pants Lounge Sets Two Piece Loungewear with Pockets (Deep Blue Sea, M) 194-huilanbai-M",
+          "label": null
+        },
+        {
+          "product_id": "B07VHC7QDB",
+          "title": "Milumia Women Let Me Sleep Pajamas Sets Short Sleeves Loungewear Casual PJ Black and White Medium",
+          "label": null
+        },
+        {
+          "product_id": "B083LGFV9Z",
+          "title": "Aoliks Women's Fleece Lined Leggings Winter High Waisted Soft Stretch Thermal Warm Workout Yoga Pants",
+          "label": null
+        },
+        {
+          "product_id": "B0799P3JZD",
+          "title": "90 Degree By Reflex Women’s Lightweight, Full Zip Running Track Jacket - Black - Medium",
+          "label": null
+        },
+        {
+          "product_id": "B07THQSKY8",
+          "title": "Zaxicht High Waisted Jeans Shorts for Women Teen Girls, Casual Skinny Denim Shorts Stretchy Tassel Short Pants Solid Color (Light Blue, XXXL)",
+          "label": null
+        },
+        {
+          "product_id": "B076Q9CXCS",
+          "title": "Urban CoCo Women's Office Blazer Jacket Open Front (L, Dark Green)",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 115022,
+      "query": "yoga base board",
+      "ndcg@10": 0.6131471927654584,
+      "recall_exact@10": 0.5,
+      "exact_in_top10": 1,
+      "judged_in_top10": 1,
+      "top10": [
+        {
+          "product_id": "B076FXGF1Y",
+          "title": "Sportneer Half Balance Ball Balance Board with Resistance Bands Balance Trainer with Pump for Core Ab Training Yoga Home Fitness Stability Workout Strength Exercise Physical Therapy & Gym…",
+          "label": "E"
+        },
+        {
+          "product_id": "162203466X",
+          "title": "Good Night Yoga: A Pose-by-Pose Bedtime Story",
+          "label": null
+        },
+        {
+          "product_id": "B0102UUHCI",
+          "title": "Gaiam Classic Backless Balance Ball Chair – Exercise Stability Yoga Ball Premium Ergonomic Chair for Home and Office Desk with Air Pump, Exercise Guide and Satisfaction Guarantee, Purple",
+          "label": null
+        },
+        {
+          "product_id": "B00NUQT3MM",
+          "title": "Black Diamond Stoneworks Yoga Mat Spray Cleaner: USDA Certified BIOBASED- Essential Oils, Safe for All Type of Materials, Exercise, Pilates, or Workout Mats. (1 gallon)",
+          "label": null
+        },
+        {
+          "product_id": "B01NCEUNU1",
+          "title": "Yoga Cloud - Extra Thick 1\" Exercise Mat with Shoulder Sling - 25mm Non-slip, Moisture-Resistant Foam Cushion for Pilates and Working Out - Ultra Balance & Support for Joint Health, & Physical Therapy",
+          "label": null
+        },
+        {
+          "product_id": "B005NZ7PEQ",
+          "title": "Manduka PRO Yoga Mat – Premium 6mm Thick Mat, High Performance Grip, Support and Stability in Yoga, Pilates, Gym, FitnessStandard, 71 Inches, Black Sage Color",
+          "label": null
+        },
+        {
+          "product_id": "B01F46RPS4",
+          "title": "King of Tokyo: New Edition Board Game",
+          "label": null
+        },
+        {
+          "product_id": "B0793MT3Y6",
+          "title": "Space Base",
+          "label": null
+        },
+        {
+          "product_id": "B00U26V4VQ",
+          "title": "Catan Board Game (Base Game) | Family Board Game | Board Game for Adults and Family | Adventure Board Game | Ages 10+ | for 3 to 4 Players | Average Playtime 60 Minutes | Made by Catan Studio",
+          "label": null
+        },
+        {
+          "product_id": "B07CNGGLB8",
+          "title": "ProBody Pilates Ball Exercise Ball Yoga Ball, Multiple Sizes Stability Ball Chair, Gym Grade Birthing Ball for Pregnancy, Fitness, Balance, and Physical Therapy (Aqua, 55 cm)",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 112879,
+      "query": "womens born ankle boots",
+      "ndcg@10": 0.9427412906209435,
+      "recall_exact@10": 0.75,
+      "exact_in_top10": 9,
+      "judged_in_top10": 10,
+      "top10": [
+        {
+          "product_id": "B076BX9Y46",
+          "title": "BORN Womens Chaval Leather Closed Toe Ankle Fashion Boots, Black, Size 6.5",
+          "label": "E"
+        },
+        {
+          "product_id": "B01N0Z6H25",
+          "title": "BORN - Womens - Michel",
+          "label": "E"
+        },
+        {
+          "product_id": "B00X8SW7ZM",
+          "title": "BORN - Womens - Kerri Black",
+          "label": "E"
+        },
+        {
+          "product_id": "B01AV42VVU",
+          "title": "Born Women's Cross Shoes, Tobacco Distressed - 7 B(M) US",
+          "label": "E"
+        },
+        {
+          "product_id": "B07PFH2F79",
+          "title": "BORN Womens Carmel Leather Closed Toe Ankle Fashion Boots, Black, Size 6.5",
+          "label": "E"
+        },
+        {
+          "product_id": "B07955S2X3",
+          "title": "BORN Bessie Booties - Taupe Distressed - Womens - 8.5",
+          "label": "E"
+        },
+        {
+          "product_id": "B07955FRBH",
+          "title": "Born - Womens - Temple Taupe",
+          "label": "E"
+        },
+        {
+          "product_id": "B01F7T72WC",
+          "title": "BORN Womens Sylvia Leather Closed Toe Ankle Fashion Boots, Rust, Size 7.5",
+          "label": "E"
+        },
+        {
+          "product_id": "B07SW36ZYC",
+          "title": "BORN Womens Carmel Leather Closed Toe Ankle Fashion Boots, Brown, Size 7.0",
+          "label": "E"
+        },
+        {
+          "product_id": "B07P875566",
+          "title": "Clarks Womens Camzin Pull Ankle Boot, Tan Suede, 7.5",
+          "label": "S"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 36382,
+      "query": "earbuds for iphone xr",
+      "ndcg@10": 0.3221480927160305,
+      "recall_exact@10": 0.5,
+      "exact_in_top10": 2,
+      "judged_in_top10": 3,
+      "top10": [
+        {
+          "product_id": "B0894NRQCD",
+          "title": "Earbuds, Microphone Earphones Stereo Headphones Noise Isolating Headset Fit Compatible with iPhone Xs/XR/XS Max/iPhone 7/7 Plus iPhone 8/8Plus /iPhone X Earphones 1 Pack",
+          "label": "S"
+        },
+        {
+          "product_id": "B08689285L",
+          "title": "Lighting Connector Earbuds Earphone Wired Headphones Headset with Mic and Volume Control,Isolation Noise,Compatible with Apple iPhone 11 Pro Max/Xs Max/XR/X/7/8 Plus Plug and Play Cycling GPS Units",
+          "label": null
+        },
+        {
+          "product_id": "B083FP3KZ1",
+          "title": "Headphones for Phone, iSkey Earbuds for Phone HiFi Stereo Earphone Compatible with Phone 11 Pro Phone X/XS Max/XR Phone 8/8 Plus Phone 7/7 Plus with Microphone and Volume Control",
+          "label": "E"
+        },
+        {
+          "product_id": "B07HRJL27Z",
+          "title": "Mkeke Compatible with iPhone Xr Case,Clear Anti-Scratch Shock Absorption Cases for 6.1 Inch",
+          "label": null
+        },
+        {
+          "product_id": "B07GZGJ8LQ",
+          "title": "SKYLMW Case for iPhone XR,Shockproof Three Layer Protection Hard Plastic & Soft TPU Sturdy Armor Protective High Impact Resistant Cover for iPhone XR 2018(6.1 inch) for Men/Women/Girls/Boys,Clear",
+          "label": null
+        },
+        {
+          "product_id": "B0912B4W72",
+          "title": "Justcool for iPhone XR Case Waterproof, Full Body with Built-in Screen Protector Rugged Clear Case for iPhone XR 6.1 inch (Green/Clear)",
+          "label": null
+        },
+        {
+          "product_id": "B07FWPFZ5F",
+          "title": "Case-Mate - iPhone XR - GLASS SCREEN PROTECTOR - Tempered Glass - Anti Fingerprint - 9H - Apple iPhone - Clear",
+          "label": null
+        },
+        {
+          "product_id": "B087PCR1VY",
+          "title": "Bluetooth 5.0 Wireless Earbuds Noise Canceling 3D Stereo with【24Hrs Fast Charging Case】 IPX5 Waterproof Pop-ups Auto Pairing Sports Headphones in-Ear Built-in Mic Headset,for Airpods iPhone Apple",
+          "label": null
+        },
+        {
+          "product_id": "B07JM9MQ8V",
+          "title": "OATSBASF Bumper Case for iPhone XR, Aluminum Utral-Thin Corner Cover Minimalist Bumper Case for iPhone XR 6.1-inch",
+          "label": null
+        },
+        {
+          "product_id": "B083BT3VXZ",
+          "title": "PALOVUE Lightning Headphones Earphones Earbuds Compatible iPhone 13 12 11 Pro Max iPhone X XS Max XR iPhone 8 Plus iPhone 7 Plus MFi Certified with Microphone Controller SweetFlow Black",
+          "label": "E"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 101821,
+      "query": "the autumn republic",
+      "ndcg@10": 0.8729725276117153,
+      "recall_exact@10": 1.0,
+      "exact_in_top10": 1,
+      "judged_in_top10": 5,
+      "top10": [
+        {
+          "product_id": "B00SRRJA2M",
+          "title": "The Autumn Republic",
+          "label": "E"
+        },
+        {
+          "product_id": "B01H4RAMP4",
+          "title": "Almost Autumn",
+          "label": "I"
+        },
+        {
+          "product_id": "1501110349",
+          "title": "November 9: A Novel",
+          "label": null
+        },
+        {
+          "product_id": "B07NZNTK6V",
+          "title": "The Powder Mage Trilogy: Promise of Blood, The Crimson Campaign, The Autumn Republic",
+          "label": "S"
+        },
+        {
+          "product_id": "1608712729",
+          "title": "Keeping the Republic: Power and Citizenship in American Politics",
+          "label": "I"
+        },
+        {
+          "product_id": "B078X2JDQ7",
+          "title": "The Sound of Rain",
+          "label": null
+        },
+        {
+          "product_id": "B003QBD4O4",
+          "title": "The Reunion",
+          "label": null
+        },
+        {
+          "product_id": "B07NBRPP2G",
+          "title": "The Hole In The Ground",
+          "label": null
+        },
+        {
+          "product_id": "B093C7QK2H",
+          "title": "Assorted Halloween",
+          "label": null
+        },
+        {
+          "product_id": "1620933241",
+          "title": "Flavors of Fall (Seasonal Cookbook Collection)",
+          "label": "I"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 72891,
+      "query": "nerf rival attachments",
+      "ndcg@10": 0.8497554308327451,
+      "recall_exact@10": 0.8,
+      "exact_in_top10": 8,
+      "judged_in_top10": 10,
+      "top10": [
+        {
+          "product_id": "B072M1N9VD",
+          "title": "NERF Rival Tactical Blaster Strap",
+          "label": "E"
+        },
+        {
+          "product_id": "B074MJHF3B",
+          "title": "Nerf Rival Mask Blaster & Combat",
+          "label": "E"
+        },
+        {
+          "product_id": "B01IHFCZDE",
+          "title": "Nerf B8233 Rival Flashlight Grip",
+          "label": "E"
+        },
+        {
+          "product_id": "B01IHFCZRK",
+          "title": "NERF Rival Red Dot Sight",
+          "label": "E"
+        },
+        {
+          "product_id": "B07RWP44SH",
+          "title": "NERF Rival Knockout XX-100 Blaster -- Round Storage, 90 FPS Velocity, Breech Load -- Includes 2 Official Rival Rounds -- Team Red",
+          "label": "E"
+        },
+        {
+          "product_id": "B00T2DFI6M",
+          "title": "Nerf Red Dot Sight",
+          "label": "C"
+        },
+        {
+          "product_id": "B00TDP7KT2",
+          "title": "Nerf Modulus Stealth Upgrade Kit",
+          "label": "C"
+        },
+        {
+          "product_id": "B07VXBGFJV",
+          "title": "Nerf Rival Charger MXX-1200 Motorized Blaster -- 12-Round Capacity, 100 FPS Velocity -- Includes 24 Official Nerf Rival Rounds -- Team Blue",
+          "label": "E"
+        },
+        {
+          "product_id": "B07VXBDYR4",
+          "title": "NERF Rival Takedown XX-800 Blaster -- Pump Action, Breech-Load, 8-Round Capacity, 90 FPS, 8 Official Rival Rounds -- Team Red",
+          "label": "E"
+        },
+        {
+          "product_id": "B01M01XSVR",
+          "title": "HeadShot Ammo Foam Balls for Toy Gun - 110 Rounds Refill Pack Compatible with Nerf Rival Guns - Carry Bag and Carabiner Included - Red",
+          "label": "E"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 21314,
+      "query": "caitriona balfe",
+      "ndcg@10": 0.0,
+      "recall_exact@10": 0.0,
+      "exact_in_top10": 0,
+      "judged_in_top10": 2,
+      "top10": [
+        {
+          "product_id": "B0848VNF22",
+          "title": "1/27/20 (Caitriona Balfe, Sting)",
+          "label": "I"
+        },
+        {
+          "product_id": "B07N1Z3D98",
+          "title": "Caitriona Balfe, Sam Elliott, and KiKi Layne Give Advice to Their Younger Selves",
+          "label": "I"
+        },
+        {
+          "product_id": "B09695TCNF",
+          "title": "ISULIFE Christmas Ball Ornaments(2.36\",Pink) 34ct Shatterproof Christmas Tree Ball Ornaments,Decorations for Xmas Tree Wedding Party Holiday Home Décor Medium Size",
+          "label": null
+        },
+        {
+          "product_id": "B0044C6V5I",
+          "title": "The Mastadon in the Room",
+          "label": null
+        },
+        {
+          "product_id": "B07BXZYSDJ",
+          "title": "YiZYiF Girls Kids Ballerina Dance Leap Ruffles Tutu Movie Cosplay Ballet Dress Costumes White 3-4T",
+          "label": null
+        },
+        {
+          "product_id": "B075VJ7Q7S",
+          "title": "HappyTree Kids Hot Fashion Thick Knitted Winter Warm Infinity Scarf Navy",
+          "label": null
+        },
+        {
+          "product_id": "B0081BYVZU",
+          "title": "OPI Mini Cuticle Nipper",
+          "label": null
+        },
+        {
+          "product_id": "B000BQWWAE",
+          "title": "PHILIPS LIGHTING ICN4P32N 3/4F17-F32 Elec Ballast",
+          "label": null
+        },
+        {
+          "product_id": "B07NWHPNXT",
+          "title": "onlypuff Solid Color Long Sleeve Baggy Shirt Women Round Neck Batwing Sleeve Tunic Tops Loose XXL",
+          "label": null
+        },
+        {
+          "product_id": "B000O39TEQ",
+          "title": "Li'l Pals Bristle Brush",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 64144,
+      "query": "luggage buckle strap",
+      "ndcg@10": 1.0,
+      "recall_exact@10": 0.7142857142857143,
+      "exact_in_top10": 10,
+      "judged_in_top10": 10,
+      "top10": [
+        {
+          "product_id": "B07KTPK1LJ",
+          "title": "Adjustable Travel Luggage Strap, Nylon Suitcase Luggage Belt Tage Set to Keep Your Luggage Organized and Secure, 43\"-78\" Adjustable (2Black)",
+          "label": "E"
+        },
+        {
+          "product_id": "B01932IXXG",
+          "title": "BlueCosto Luggage Strap Suitcase Belts Travel Accessories, 2-Pack, Green",
+          "label": "E"
+        },
+        {
+          "product_id": "B07D7MVMJN",
+          "title": "XTACER Molle Backpack Accessory Strap Luggage Straps Cover Strap Sleeping Bag Strap with Buckle (Black (10-Pack))",
+          "label": "E"
+        },
+        {
+          "product_id": "B01M0CPAOT",
+          "title": "TRANVERS Luggage Strap for Suitcase Heavyduty Travel Belt Adjustable 2-Pack Blue",
+          "label": "E"
+        },
+        {
+          "product_id": "B0169TD32M",
+          "title": "Cosmos Premium Nylon Add-A-Bag Travel Luggage Strap Belt with Quick Release Buckle - Black",
+          "label": "E"
+        },
+        {
+          "product_id": "B07CF7VH7W",
+          "title": "Darller 4 PCS 74\" x 2\" Luggage Straps Suitcase Belts Wide Adjustable Packing Straps Travel Accessories, Black",
+          "label": "E"
+        },
+        {
+          "product_id": "B07CLM6V9B",
+          "title": "Luggage Nylon Straps with Quick Release Buckle Utility Straps for Travel Packing Outdoorsports 6 Pack 2.5 x 150cm (Black)",
+          "label": "E"
+        },
+        {
+          "product_id": "B07J41L45L",
+          "title": "XSTRAP 72 Inch Utility Strap with Quick-Release Buckle, 4 Piece Luggage Strap (Black)",
+          "label": "E"
+        },
+        {
+          "product_id": "B00004SR9P",
+          "title": "Lewis N. Clark Add-A-Bag Travel Luggage Straps + Suitcase Belt for Travel Security with Adjustable Straps, Perfect Airplane Travel Accessories, 8-13-Inch (Standard)",
+          "label": "E"
+        },
+        {
+          "product_id": "B075D81C5Y",
+          "title": "Samsonite Luggage Strap, Varsity Red, No Lock",
+          "label": "E"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 66470,
+      "query": "mattress with frame",
+      "ndcg@10": 0.3098064936645125,
+      "recall_exact@10": 0.3076923076923077,
+      "exact_in_top10": 4,
+      "judged_in_top10": 4,
+      "top10": [
+        {
+          "product_id": "B07NWC7WYY",
+          "title": "Vintage Sturdy Queen Size Metal Bed Frame with Headboard and Footboard Basic Bed Frame No Box Spring Needed，Antique Brown.",
+          "label": null
+        },
+        {
+          "product_id": "B07345FXWH",
+          "title": "Boyd Sleep Montana Upholstered Platform Bed Frame Mattress Foundation with Headboard and Strong Wood Slat Supports: Faux Leather, White, Full",
+          "label": null
+        },
+        {
+          "product_id": "B009WZLOAO",
+          "title": "Milliard Lightweight Folding Cot with Mattress 31\"x71.5\"",
+          "label": null
+        },
+        {
+          "product_id": "B074QWX9V9",
+          "title": "Zinus Abel 14 Inch Metal Platform Bed Frame / Mattress Foundation / No Box Spring Needed / Steel Slat Support / Easy Quick Lock Assembly, Queen",
+          "label": "E"
+        },
+        {
+          "product_id": "B0721NNG49",
+          "title": "ZINUS Joseph Metal Platforma Bed Frame / Mattress Foundation / Wood Slat Support / No Box Spring Needed / Sturdy Steel Structure, King",
+          "label": "E"
+        },
+        {
+          "product_id": "B01LXM1F0Z",
+          "title": "ZINUS Joseph Metal Platforma Bed Frame / Mattress Foundation / Wood Slat Support / No Box Spring Needed / Sturdy Steel Structure, Full",
+          "label": null
+        },
+        {
+          "product_id": "B07VJFXQFN",
+          "title": "DUMEE Metal Queen Bed Frame with Headboard and Footboard Farmhouse Platform Bed Frame Queen Size Under Bed Storage No Box Spring Needed, Textured Black",
+          "label": null
+        },
+        {
+          "product_id": "B06XGQ8D2P",
+          "title": "ZINUS Korey Metal Platform Bed Frame with Upholstered Headboard / Wood Slat Support / No Box Spring / Easy Assembly, King",
+          "label": null
+        },
+        {
+          "product_id": "B07CVQXC66",
+          "title": "Best Price Mattress 14 Inch Metal Platform Beds w/ Heavy Duty Steel Slat Mattress Foundation (No Box Spring Needed), Black",
+          "label": "E"
+        },
+        {
+          "product_id": "B01M7M9NXX",
+          "title": "ZINUS Shalini Upholstered Platform Bed Frame / Mattress Foundation / Wood Slat Support / No Box Spring Needed / Easy Assembly, Dark Grey, Queen",
+          "label": "E"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 57818,
+      "query": "kids g shock watches boys",
+      "ndcg@10": 0.7334242153813333,
+      "recall_exact@10": 0.75,
+      "exact_in_top10": 6,
+      "judged_in_top10": 8,
+      "top10": [
+        {
+          "product_id": "B07KT2BL2X",
+          "title": "Boys Camouflage LED Sports Kids Watch Waterproof Digital Electronic Military Wrist Watches for Kids with Silicone Band Alarm Stopwatch Watches Age 5-10",
+          "label": "E"
+        },
+        {
+          "product_id": "B08DHQD411",
+          "title": "Biliqueen Smart Watch for Kids Boys 6-12 Year Old Boys Toddler HD Dual Camera Multi-Function Touchscreen Smartwatch with Game Educational Toys USB Charging Best Birthday Gifts for Teen Boys",
+          "label": null
+        },
+        {
+          "product_id": "B07W49VPRH",
+          "title": "Kid's Digital Watch LED Outdoor Sports 50M Waterproof Watches Boys Children's Analog Quartz Wristwatch with Alarm - Green",
+          "label": "E"
+        },
+        {
+          "product_id": "B07TD3NVQ3",
+          "title": "Boys Watches Ages 11-15 Waterproof, Kids Digital Sport Waterproof Watch for Kids Birthday Presents Green Gifts Toys Age 5-16 Teen Boys Girls Children Young Outdoor Electronic Watches Alarm Stopwatch",
+          "label": "E"
+        },
+        {
+          "product_id": "B07RJ2H8P5",
+          "title": "Kid's Digital Watch Outdoor Sports 50M Waterproof Electronic Watches Alarm Clock 12/24 H Stopwatch Calendar Boy Wristwatch - Black Blue",
+          "label": "S"
+        },
+        {
+          "product_id": "B07GLQZY4W",
+          "title": "Dreamingbox Kids Watches Boys, Waterproof Electronic Sports Watches for Boys Digital Watches Ages 5-7 Easter Birthday Gifts for 6-12 Year Old Boys Yellow",
+          "label": "S"
+        },
+        {
+          "product_id": "B07W5W2YP9",
+          "title": "Kids Digital Sports Watch for Boys Girls, Boy Waterproof Casual Electronic Analog Quartz 7 Colorful Led Watches with Alarm Stopwatch Silicone Band Luminous Wristatches (Army Camouflage)",
+          "label": "E"
+        },
+        {
+          "product_id": "B07QV1S1H5",
+          "title": "Outdoor Toys for 5-12 Year Old Boys, LED 50M Waterproof Digital Sport Watches for Kids Christmas Birthday Presents Gifts for 5-12 Year Old Boys Toys Age 5-12 Analog Watch for Boys Kids",
+          "label": "E"
+        },
+        {
+          "product_id": "B07GXCR5DV",
+          "title": "K KomForme Toddler Light Up Rain Boots Patterns and Glitter Rain Boots for Girls Boys with Handles,Blue Dinosaur Park,1",
+          "label": null
+        },
+        {
+          "product_id": "B07T46LZQM",
+          "title": "Skmei Kids Sports Watch, Multi Function Digital Kids Watches Waterproof LED Light Wristwatches for Boys Girls (Black)",
+          "label": "E"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 65347,
+      "query": "mamoru hosoda",
+      "ndcg@10": 0.18377792961726913,
+      "recall_exact@10": 0.25,
+      "exact_in_top10": 1,
+      "judged_in_top10": 4,
+      "top10": [
+        {
+          "product_id": "B07FQ3JNVF",
+          "title": "Mamoru Hosoda Movie Collection: The Girl Who Leapt Through Time / Summer Wars / Wolf Children / The Boy and the Beast [Blu-ray]",
+          "label": "S"
+        },
+        {
+          "product_id": "B07LDCG9DL",
+          "title": "Mirai [Blu-ray]",
+          "label": "S"
+        },
+        {
+          "product_id": "B0044C6V5I",
+          "title": "The Mastadon in the Room",
+          "label": null
+        },
+        {
+          "product_id": "B06WD5NQS4",
+          "title": "Miss Hokusai",
+          "label": "S"
+        },
+        {
+          "product_id": "B0002DGUWW",
+          "title": "Habitrail Mini Mushroom",
+          "label": null
+        },
+        {
+          "product_id": "B07KGLQ9X7",
+          "title": "Crossroads",
+          "label": null
+        },
+        {
+          "product_id": "B009K5UMYA",
+          "title": "Drums Along the Mohawk",
+          "label": null
+        },
+        {
+          "product_id": "B01E4B0XV6",
+          "title": "Monster",
+          "label": null
+        },
+        {
+          "product_id": "B07NQQ3RYG",
+          "title": "Mirai",
+          "label": "E"
+        },
+        {
+          "product_id": "B000VZHLCY",
+          "title": "Mister Roberts",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 60267,
+      "query": "lash bed",
+      "ndcg@10": 0.3740359700936089,
+      "recall_exact@10": 0.26666666666666666,
+      "exact_in_top10": 4,
+      "judged_in_top10": 5,
+      "top10": [
+        {
+          "product_id": "B07MML49YR",
+          "title": "Perfectly Fitted Spa Bed Cover for Lash Bed or Massage Table - fitted sheet - TESTED and APPROVED by Lash Artists - Includes ARTIST CUT-OUT (Hello Gorgeous)",
+          "label": "C"
+        },
+        {
+          "product_id": "B07W52SFDX",
+          "title": "MaxKare Portable Massage Table 84 Inch Massage Bed Extra Wide SPA Bed Folding Professional Lash Bed 2 Fold Facial Bed Adjustable Aluminum Frame Carrying Bag Headrest & Accessories for Home Use",
+          "label": "E"
+        },
+        {
+          "product_id": "B08TTLJT93",
+          "title": "LivBay Lash Extensions - 0.03mm Mega Volume | Lightweight Eyelash Extensions | Dramatic Volume | Professional Use Only, 9-15mm Mixed Tray 12 Lines, L Curl",
+          "label": null
+        },
+        {
+          "product_id": "B0872N365W",
+          "title": "Oneach Modern USB Table Lamps Set of 2 for Living Room Bedroom 24.5“ Brushed Nickel Bedside Nightstand Lamps with Fabric Lampshade Silver",
+          "label": null
+        },
+        {
+          "product_id": "B07JHB2KZ5",
+          "title": "Beauty Style Professional Multi-Purpose Spa Facial Bed Tattoo Bed Salon Beauty Bed with Stool White",
+          "label": "E"
+        },
+        {
+          "product_id": "B081CC66WL",
+          "title": "Paddie Facial Table Tattoo Chair Massage Bed Adjustable Professional for Esthetician Salon Beauty Spa Lash Microblading, White",
+          "label": "E"
+        },
+        {
+          "product_id": "B000O39TEQ",
+          "title": "Li'l Pals Bristle Brush",
+          "label": null
+        },
+        {
+          "product_id": "B00GO7Y72K",
+          "title": "Massage Table Massage Bed Spa Bed 84 Inches Long Portable 2 Folding W/Carry Case Table Heigh Adjustable Salon Bed Face Cradle Bed",
+          "label": "E"
+        },
+        {
+          "product_id": "B0835JHFWL",
+          "title": "Amazon Basics Kids Easy-Wash Microfiber Bed-in-a-Bag Rugby Stripe Bedding Set - Full/Queen, Red/Navy",
+          "label": null
+        },
+        {
+          "product_id": "B08VRGBTCQ",
+          "title": "Women Satin Sleepwear Kimono Robe Sexy Lace Bodysuit Babydoll Lingerie Nightdress Pajamas Set Blue",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 114863,
+      "query": "yellow joycon skin",
+      "ndcg@10": 0.48603446868226796,
+      "recall_exact@10": 0.5,
+      "exact_in_top10": 4,
+      "judged_in_top10": 9,
+      "top10": [
+        {
+          "product_id": "B07MGCZP9M",
+          "title": "Silicone Soft Non-Slip Protective Skin Case Cover Handle Sleeve for Nintend Switch NS Joy-Con Controller Brown-Yellow",
+          "label": "S"
+        },
+        {
+          "product_id": "B07XDGCL1Z",
+          "title": "6 in 1 Thumb Grips Joystick Cap Cover Soft Silicone Protective Skin Case for Nintendo Switch Joy-Con Controller (Yellow-Brown)",
+          "label": "E"
+        },
+        {
+          "product_id": "B07NVGHL3H",
+          "title": "eXtremeRate Soft Touch Grip Caution Yellow Joycon Handheld Controller Housing with Full Set Buttons, Replacement Shell Case for Nintendo Switch & Switch Oled Model Joy-Con – Console Shell NOT Included",
+          "label": "E"
+        },
+        {
+          "product_id": "B072BWR3X5",
+          "title": "MightySkins Skin Compatible with Nintendo Joy-Con Controller Wrap Cover Sticker Skins Nebula",
+          "label": "S"
+        },
+        {
+          "product_id": "B071P23GD4",
+          "title": "MightySkins Skin Compatible with Nintendo Joy-Con Controller wrap Cover Sticker Skins Bright Smoke",
+          "label": "S"
+        },
+        {
+          "product_id": "B078KV14YL",
+          "title": "MXRC Silicone Rubber Cover Skin case Anti-Slip Hand Grip Customize for Nintendo Switch x 1(Yellow) + Joycon Thumb Grips x 8",
+          "label": "I"
+        },
+        {
+          "product_id": "B07WZDGH5W",
+          "title": "eXtremeRate Soft Touch Caution Yellow Joycon Handheld Controller Housing (D-Pad Version) w/Full Buttons, Replacement Shell Case for Nintendo Switch & Switch OLED Joy-Con – Console Shell NOT Included",
+          "label": "E"
+        },
+        {
+          "product_id": "B07Y6BC9TT",
+          "title": "GeekShare Switch Protective Case Slim Cover Case Compatible with Nintendo Switch and Joy Con - Shock-Absorption and Anti-Scratch (Yellow)",
+          "label": "C"
+        },
+        {
+          "product_id": "B07Q1FDBTP",
+          "title": "Thumb Grips Joystick Cap Cover Soft Silicone Protective Skin Case for Nintendo Switch Joy-Con (Blue+Red)",
+          "label": "E"
+        },
+        {
+          "product_id": "B01BCL2OOK",
+          "title": "MightySkins (Cooler Not Included) Skin Compatible With Yeti Roadie 20 Qt Cooler Wrap Cover Sticker Skins Black Diamond Plate",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 5295,
+      "query": "8 slotted pot",
+      "ndcg@10": 0.8285883286319965,
+      "recall_exact@10": 1.0,
+      "exact_in_top10": 2,
+      "judged_in_top10": 8,
+      "top10": [
+        {
+          "product_id": "B089YVLZSH",
+          "title": "rePotme 8 inch Slotted Clear Orchid Pots 3 Pack (Crystal Clear)",
+          "label": "E"
+        },
+        {
+          "product_id": "B004IRBZX2",
+          "title": "rePotme Slotted Clear Orchid Pot - 8 Pots - 2 Each of 3, 4, 5, and 6 inch",
+          "label": "S"
+        },
+        {
+          "product_id": "B004IRDWUG",
+          "title": "rePotme Slotted Clear Orchid Pot - 4 Pots - 1 Each of 3, 4, 5, and 6 inch",
+          "label": "S"
+        },
+        {
+          "product_id": "B01LXJFP0Z",
+          "title": "4\" Slotted Clear Orchid Pots - 3 Pack (Crystal Clear)",
+          "label": "S"
+        },
+        {
+          "product_id": "B01F4BALUI",
+          "title": "rePotme 6 inch Slotted Pot for Orchids, Succulents, Houseplants - 3 Pack - Crystal Clear",
+          "label": "S"
+        },
+        {
+          "product_id": "B07CPG9SQ4",
+          "title": "coisound 1688 Orchid Breathable Slotted Clear Plastic Pot - Growers Assortment (10 pots - Two of Them are 4\",5\",6\",7\",7.5\")",
+          "label": "S"
+        },
+        {
+          "product_id": "B07YG4RD2X",
+          "title": "8 inch Net Pots Heavy Duty Round Cups Wide Rim Design - Orchids • Aquaponics • Aquaculture • Hydroponics Slotted Mesh (Cz Garden All Star 5 Pack Black)",
+          "label": "E"
+        },
+        {
+          "product_id": "B0893CRKF3",
+          "title": "Veggiecraft Farms, Pasta Sweet Potato Spaghetti, 8 Ounce",
+          "label": null
+        },
+        {
+          "product_id": "B003XNWN3S",
+          "title": "GoPong 8-Foot Portable Folding Beer Pong / Flip Cup Table (6 Balls Included)",
+          "label": null
+        },
+        {
+          "product_id": "B07MMB23SR",
+          "title": "Orchid Flower Pot, 8-inch Flower Planters with Holes and Mesh Plastic Round Plant Pot for Indoor Outdoor Gardening Plants - Outer and Inner Pots (White)",
+          "label": "S"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 45750,
+      "query": "girly les stream lights",
+      "ndcg@10": 0.0,
+      "recall_exact@10": 0.0,
+      "exact_in_top10": 0,
+      "judged_in_top10": 1,
+      "top10": [
+        {
+          "product_id": "B07Y27WKQN",
+          "title": "Starlight Swimming Relay Race Kit: Light Up, Glow-in-The-Dark Swim Lights for Pool Games – a New Kind of Floating Pool Toy",
+          "label": null
+        },
+        {
+          "product_id": "B07145MZCQ",
+          "title": "Red Light",
+          "label": null
+        },
+        {
+          "product_id": "B08521SGW3",
+          "title": "Ekouaer Pajamas Women Short Sleeve with Plaid Shorts Cute Sleepwear Teen Girl Cartoon Sleep Tee Summer Lounge Pj Set Gift",
+          "label": null
+        },
+        {
+          "product_id": "B01GJ9EBSW",
+          "title": "The Girl Who Leapt Through Time",
+          "label": null
+        },
+        {
+          "product_id": "B07RDZ4QQJ",
+          "title": "Dulcet Downtown Birthday Girl Rose Glitter Headband",
+          "label": null
+        },
+        {
+          "product_id": "0062840339",
+          "title": "Let Me Hear a Rhyme",
+          "label": null
+        },
+        {
+          "product_id": "B087PJCS38",
+          "title": "lime flare Women Sexy V Neck Lace Trim Satin T-Shirt Tops Dressy Silk Lacy Tank Blouse Shirt (Black Eyelash Lace Short Sleeve,X-L)",
+          "label": null
+        },
+        {
+          "product_id": "B009MFRLEC",
+          "title": "Halloween Lights LED Lites Attachment Jack-O-Lantern",
+          "label": null
+        },
+        {
+          "product_id": "B07GXCR5DV",
+          "title": "K KomForme Toddler Light Up Rain Boots Patterns and Glitter Rain Boots for Girls Boys with Handles,Blue Dinosaur Park,1",
+          "label": "I"
+        },
+        {
+          "product_id": "B00V59BH9I",
+          "title": "American Girl Samantha's Summertime Treats",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 50223,
+      "query": "henry fonda",
+      "ndcg@10": 0.38334277998463445,
+      "recall_exact@10": 0.2222222222222222,
+      "exact_in_top10": 2,
+      "judged_in_top10": 2,
+      "top10": [
+        {
+          "product_id": "B07PXPQ8SW",
+          "title": "Discovering Henry Fonda",
+          "label": "E"
+        },
+        {
+          "product_id": "1501102176",
+          "title": "Hank and Jim: The Fifty-Year Friendship of Henry Fonda and James Stewart",
+          "label": "E"
+        },
+        {
+          "product_id": "B003MXD694",
+          "title": "Fantastic Mr. Fox",
+          "label": null
+        },
+        {
+          "product_id": "B079TKYF3Z",
+          "title": "Funko Dorbz: Hellboy- Hellboy",
+          "label": null
+        },
+        {
+          "product_id": "B081F2GK4J",
+          "title": "Ford v Ferrari",
+          "label": null
+        },
+        {
+          "product_id": "0671612972",
+          "title": "Ben Hogan's Five Lessons: The Modern Fundamentals of Golf",
+          "label": null
+        },
+        {
+          "product_id": "B07DLP8KH4",
+          "title": "Know.",
+          "label": null
+        },
+        {
+          "product_id": "1979120919",
+          "title": "Anthem",
+          "label": null
+        },
+        {
+          "product_id": "B073JW2HM5",
+          "title": "Sans commentaire",
+          "label": null
+        },
+        {
+          "product_id": "B008KW43TE",
+          "title": "channel ORANGE [Explicit]",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 56575,
+      "query": "jumbo cupcake pans",
+      "ndcg@10": 0.7149576725893187,
+      "recall_exact@10": 0.6,
+      "exact_in_top10": 6,
+      "judged_in_top10": 9,
+      "top10": [
+        {
+          "product_id": "B07HXYZJ7Y",
+          "title": "BPA Free Silicone Jumbo Cupcake Pans - Texas Size Muffin Pans Set - Non Stick 6 Large/Big Baking cups, Set of 2,Dishwasher & Microwave Safe - Pop Out Easily",
+          "label": "E"
+        },
+        {
+          "product_id": "B000NBQFUU",
+          "title": "Wilton Giant Cupcake Pan, Jumbo Muffin and Cupcake Pan, 6-Cup, Steel",
+          "label": "E"
+        },
+        {
+          "product_id": "B000NBSI32",
+          "title": "Wilton 2105-955 6-Cup Jumbo Muffin Pan",
+          "label": "S"
+        },
+        {
+          "product_id": "B07328J6QK",
+          "title": "Wilton Recipe Right Non-Stick 6 Cup Jumbo Muffin Pan, Set of 2",
+          "label": "E"
+        },
+        {
+          "product_id": "B0779Z4TWQ",
+          "title": "OMG Giant Cupcake Mold Pan - Huge Fun, Jumbo Smash Cake Big Silicone, Extra Large Cake Decorating Supplies, Icing Piping Bags Tips, Muffin Liner Cups, Oversize Baking and Frosting Accessories Gift Set",
+          "label": "E"
+        },
+        {
+          "product_id": "B001TO39AO",
+          "title": "USA Pan Jumbo Texas Muffin Pan, 6 Well, Nonstick & Quick Release Coating, Aluminized Steel",
+          "label": "E"
+        },
+        {
+          "product_id": "B009J9AOEK",
+          "title": "Harold Import, Muffin Pan 6 Cup",
+          "label": "E"
+        },
+        {
+          "product_id": "B00KDPLKS8",
+          "title": "Silicone Texas Muffin Pans and Cupcake Maker, 6 Cup Large, Set of 2, Professional Use",
+          "label": "S"
+        },
+        {
+          "product_id": "B0798JFW1X",
+          "title": "48 Pack Silicone Baking Cups Cupcake Liners - Reusable Silicone Molds Including Round, Rectanguar, Square, Flower BPA Free Food Grade Silicone",
+          "label": null
+        },
+        {
+          "product_id": "B003YKGRDM",
+          "title": "Chicago Metallic Professional 6-Cup Non-Stick Muffin Pan, 14-Inch-by-10.25-Inch",
+          "label": "S"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 18639,
+      "query": "bose earbuds",
+      "ndcg@10": 0.7252886044542689,
+      "recall_exact@10": 0.5714285714285714,
+      "exact_in_top10": 8,
+      "judged_in_top10": 10,
+      "top10": [
+        {
+          "product_id": "B079NLTL1Q",
+          "title": "BOSE SoundSport Wireless Headphones, Black (Renewed)",
+          "label": "S"
+        },
+        {
+          "product_id": "B079P81YLP",
+          "title": "Bose SoundSport Free Wireless Sport Headphones - 774373-0010 Black (Renewed)",
+          "label": "E"
+        },
+        {
+          "product_id": "B07GDSPRF4",
+          "title": "BOSE SoundSport Free Truly Wireless Sport Headphones - Midnight Blue/Citron (Renewed)",
+          "label": "E"
+        },
+        {
+          "product_id": "B0748G1QLP",
+          "title": "Bose SoundSport Free, True Wireless Earbuds, (Sweatproof Bluetooth Headphones for Workouts and Sports), Black",
+          "label": "E"
+        },
+        {
+          "product_id": "B01LZI7KQB",
+          "title": "Bose SoundSport Wireless Earbuds (Black)",
+          "label": "S"
+        },
+        {
+          "product_id": "B01L7PSJFO",
+          "title": "Bose SoundSport, Wireless Earbuds, (Sweatproof Bluetooth Headphones for Running and Sports), Black",
+          "label": "E"
+        },
+        {
+          "product_id": "B0748JM8M5",
+          "title": "Bose SoundSport Free, True Wireless Earbuds, (Sweatproof Bluetooth Headphones for Workouts and Sports), Midnight Blue / Citron",
+          "label": "E"
+        },
+        {
+          "product_id": "B08C4KWM9T",
+          "title": "Bose QuietComfort Noise Cancelling Earbuds - Bluetooth Wireless Earphones, Triple Black, the World's Most Effective Noise Cancelling Earbuds",
+          "label": "E"
+        },
+        {
+          "product_id": "B0117RFOEG",
+          "title": "Bose SoundSport, In-Ear Sports Headphones for Apple devices, (Water and Sweat Resistant Headphones), Charcoal",
+          "label": "E"
+        },
+        {
+          "product_id": "B002M966FA",
+          "title": "Bose in-Ear Headphones/Earphones",
+          "label": "E"
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 55689,
+      "query": "jeapordy",
+      "ndcg@10": 0.793584067764911,
+      "recall_exact@10": 0.5833333333333334,
+      "exact_in_top10": 7,
+      "judged_in_top10": 7,
+      "top10": [
+        {
+          "product_id": "B01N9G2TWA",
+          "title": "Jeopardy",
+          "label": "E"
+        },
+        {
+          "product_id": "B019G0M2WS",
+          "title": "Jeopardy!",
+          "label": "E"
+        },
+        {
+          "product_id": "B06XGRHLF8",
+          "title": "Double Jeopardy",
+          "label": "E"
+        },
+        {
+          "product_id": "B01J27LQXG",
+          "title": "Jeopardy Board Game - America's Favorite Quiz Show Party Game - Features 180 Cards, 6 Stands, And Play Money (Ages 12+)",
+          "label": "E"
+        },
+        {
+          "product_id": "B01L0CV6OK",
+          "title": "Outset Media - Jeopardy Deluxe Edition - America's Favorite Quiz Show",
+          "label": "E"
+        },
+        {
+          "product_id": "1449498019",
+          "title": "Jeopardy! 2020 Day-to-Day Calendar",
+          "label": "E"
+        },
+        {
+          "product_id": "B073SFPNWL",
+          "title": "Yeh Dillagi",
+          "label": null
+        },
+        {
+          "product_id": "B003FGKAOW",
+          "title": "Milfay",
+          "label": null
+        },
+        {
+          "product_id": "B0093BM38O",
+          "title": "Jeopardy! HD - America’s Favorite Quiz Game",
+          "label": "E"
+        },
+        {
+          "product_id": "B0026Q4OPI",
+          "title": "Pilot",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 59603,
+      "query": "lady beatnik poetry",
+      "ndcg@10": 0.6725119165543411,
+      "recall_exact@10": 0.5714285714285714,
+      "exact_in_top10": 4,
+      "judged_in_top10": 5,
+      "top10": [
+        {
+          "product_id": "B014L7JG48",
+          "title": "Beat-Niks",
+          "label": "E"
+        },
+        {
+          "product_id": "0867193468",
+          "title": "Memoirs of a Beatnik",
+          "label": "E"
+        },
+        {
+          "product_id": "B08B35XK3P",
+          "title": "poems from cellblock quarantine (2020)",
+          "label": "S"
+        },
+        {
+          "product_id": "0838756077",
+          "title": "Defensive Measures: The Poetry Of Niedecker, Bishop, Gluck, And Carson",
+          "label": "E"
+        },
+        {
+          "product_id": "B00WGZ7GWC",
+          "title": "Runeband Ring Nordic Poetry is in Battle Runes by Alchemy Gothic - Size 9.5",
+          "label": null
+        },
+        {
+          "product_id": "1365231348",
+          "title": "Beatnik Fascism",
+          "label": "E"
+        },
+        {
+          "product_id": "B018FURRUW",
+          "title": "I Saw Her Standing There",
+          "label": null
+        },
+        {
+          "product_id": "B00000C0QO",
+          "title": "The Lady Vanishes",
+          "label": null
+        },
+        {
+          "product_id": "0345408772",
+          "title": "Catherine the Great: Portrait of a Woman",
+          "label": null
+        },
+        {
+          "product_id": "B01M72FM05",
+          "title": "Haydn: The Piano Sonatas by Ekaterina Derzhavina (2013-04-30)",
+          "label": null
+        }
+      ],
+      "generation": null
+    },
+    {
+      "query_id": 77404,
+      "query": "panacur for cats",
+      "ndcg@10": 0.2979309904883946,
+      "recall_exact@10": 1.0,
+      "exact_in_top10": 1,
+      "judged_in_top10": 8,
+      "top10": [
+        {
+          "product_id": "B01MYNGB7V",
+          "title": "Panacur C Canine Dewormer Dogs 2 Gram Each Packet Treats 20 lbs (3 Packets)",
+          "label": "I"
+        },
+        {
+          "product_id": "B07T1V41CZ",
+          "title": "Panacur C Canine Dewormer Dogs 1 (3 Packets) Gram Each Packet Treats 10 lbs (4 Pack)",
+          "label": "I"
+        },
+        {
+          "product_id": "B0015DUBZA",
+          "title": "PANACUR Dewormer HORSE PASTE 10%, 100mg",
+          "label": "I"
+        },
+        {
+          "product_id": "B000296N7S",
+          "title": "Panacur C Canine Dewormer (Fenbendazole), 4 Gram",
+          "label": "I"
+        },
+        {
+          "product_id": "B019CD4ZDS",
+          "title": "Bayer Tapeworm Dewormer (Praziquantel Tablets) for Cats, 3-Count Praziquantel Tablets for Cats and Kittens 6 Weeks and Older",
+          "label": "S"
+        },
+        {
+          "product_id": "B00028ZLD6",
+          "title": "Panacur C Canine Dewormer (Fenbendazole), 1 Gram, Yellow, 3 Count (Pack of 1)",
+          "label": "E"
+        },
+        {
+          "product_id": "B01LAIOOXE",
+          "title": "Panacur C Canine Dewormer Treatment Three 1-Gram Packets, Each Packet Treats 10 lbs",
+          "label": "I"
+        },
+        {
+          "product_id": "B01BSG6B6G",
+          "title": "Panacur C Canine Dewormer Dogs 1 (3 Packets) Gram Each Packet Treats 10 lbs",
+          "label": "I"
+        },
+        {
+          "product_id": "B08B8MYQ4M",
+          "title": "LIANZIMAU Cat Surgery Recovery Suit for Surgical Abdominal Wounds Home Indoor Pet Clothing E-Collar Alternative for Cats After Surgery Pajama Suit",
+          "label": null
+        },
+        {
+          "product_id": "B005KSOCFG",
+          "title": "ConairPRO Dog & Cat Slicker Small Soft",
+          "label": null
+        }
+      ],
+      "generation": null
+    }
+  ]
+}
